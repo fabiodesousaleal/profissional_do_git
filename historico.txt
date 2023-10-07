@@ -1,0 +1,2755 @@
+    1  pwd
+    2  htop
+    3  pwd
+    4  cd c:
+    5  cd c:/
+    6  pwd
+    7  cd ..
+    8  ll
+    9  cd ..
+   10  ll
+   11  cd g
+   12  cd g:
+   13  cd ..
+   14  ll
+   15  cd mnt
+   16  dir
+   17  ll
+   18  cd g/Meu Drive/KEYS/AWS PINGUIM SABIDO
+   19  cd g
+   20  cd Meu\ Drive/KEYS
+   21  dir
+   22  DIR
+   23  ll
+   24  cd AWS\ PINGUIM\ SABIDO
+   25  ll
+   26  cp keyPinguim.pem ~
+   27  cd ~
+   28  dir
+   29  ll
+   30  chmod --all
+   31  clear
+   32  ll
+   33  chmod 400 keyPinguim.pem
+   34  ll
+   35  ssh -i keyPinguim.pem ubuntu@184.72.122.124
+   36  apt-get install git
+   37  pwd
+   38  sudo apt-get install git
+   39  pwd
+   40  mkdir projetos
+   41  cd projetos
+   42  git clone https://github.com/fabiodesousaleal/pinguimsabido.git
+   43  cd ..
+   44  ll
+   45  ssh -C keyGit
+   46  ssh-keygen -C keyGitPinguim
+   47  xclip -selection clipboard < ~/.ssh/id_rsa.pub
+   48  sudo apt-get install xclip
+   49  xclip -selection clipboard < ~/.ssh/id_rsa.pub
+   50  cd projetos
+   51  git clone https://github.com/fabiodesousaleal/pinguimsabido.git
+   52  git@github.com:fabiodesousaleal/pinguimsabido.git
+   53  git clone git@github.com:fabiodesousaleal/pinguimsabido.git
+   54  ll
+   55  cd pinguimsabido
+   56  git log --oneline
+   57  git branch -a
+   58  ll
+   59  apt-get install pip
+   60  sudo apt-get install pip
+   61  pip freeze
+   62  ll
+   63  pip install requeriments.txt
+   64  pip install -r requeriments.txt
+   65  python --version
+   66  .
+   67  ll
+   68  python --version
+   69  sudo apt-get install python3.11
+   70  python3.11 -m venv venv
+   71  apt install python3.11-venv
+   72  sudo apt install python3.11-venv
+   73  python3.11 -m venv venv
+   74  ll
+   75  source venv/bin/activate
+   76  python --version
+   77  python manage.py runserver
+   78  cd..
+   79  cd ..
+   80  ll
+   81  rm -R pinguimsabido
+   82  ll
+   83  rm -R pinguimsabido --force
+   84  ll
+   85  git clone git@github.com:fabiodesousaleal/pinguimsabido.git
+   86  cd pinguimsabido
+   87  python3.11 -m venv venv
+   88  source venv/bin/activate
+   89  ll
+   90  pip install -r requeriments.txt
+   91  ll
+   92  sudo apt install code
+   93  snap install code
+   94  sudo apt install snap
+   95  snap install code
+   96  sudo snap install code
+   97  sudo snap install code --classic
+   98  code .
+   99  code .venv
+  100  ll
+  101  code manage.py
+  102  wget -qO- https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg\nsudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
+  103  echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" | sudo tee /etc/apt/sources.list.d/vscode.list
+  104  sudo apt update
+  105  sudo apt install code
+  106  code
+  107  code manage.py
+  108  ll
+  109  cd ..
+  110  ll >lista.txt
+  111  code lista.txt
+  112  ll
+  113  rm lista.txt
+  114  ll
+  115  mkdir django-teste
+  116  cd django-teste
+  117  django --version
+  118  pip install django
+  119  pip install python-django
+  120  pip install django-python
+  121  pip install django
+  122  pip install django4.2
+  123  python -m pip install Django
+  124  ll
+  125  python -m pip install django
+  126  python -m pip install Django
+  127  sudo python -m pip install Django
+  128  python -m pip install Django
+  129  python --version
+  130  python3.11 -m pip install Django
+  131  pip install Django
+  132  pip install django
+  133  ..
+  134  ll
+  135  cd django-teste
+  136  ll
+  137  pip install django
+  138  django --version
+  139  django -v
+  140  python -m django --v
+  141  Django --version
+  142  python -m django --version
+  143  ll
+  144  django-admin startprojetc setup .
+  145  django-admin startproject setup .
+  146  ll
+  147  python manage.py migrate
+  148  python manage.py runserver
+  149  cd ..
+  150  exit
+  151  cd projetos/pinguimsabido
+  152  ll
+  153  code .venv
+  154  ll
+  155  code setup/settings.py
+  156  ll
+  157  code .venv
+  158  ll
+  159  python manage.py tailwind build
+  160  python manage.py tailwind install
+  161  ll
+  162  cd ..
+  163  cd pinguimsabido
+  164  source venv/bin/activate
+  165  python manage.py tailwind build
+  166  code setup/settings.py
+  167  cd /usr/local/bin
+  168  ll
+  169  ..
+  170  cd ~
+  171  cd projetos
+  172  cd pinguimsabido
+  173  ll
+  174  vim requeriments.txt
+  175  npm --version
+  176  pip install --upgrade npm
+  177  npm --version
+  178  ll
+  179  python manage.py tailwind build
+  180  sudo apt install npm
+  181  npm --version
+  182  cd /usr/local/lib/node_modules/npm
+  183  cd /usr/local/lib/node_modules
+  184  cd /usr/local/lib/
+  185  ll
+  186  which npm
+  187  cd ~~
+  188  cd ~
+  189  which npm
+  190  cd /usr/local/lib/
+  191  ll
+  192  cd /usr/local/lib/
+  193  ll
+  194  cd python3.11
+  195  ll
+  196  cd ~
+  197  cd projetos/pinguimsabido
+  198  ll
+  199  python manage.py tailwind build
+  200  which npm
+  201  python manage.py tailwind build
+  202  echo $PATH
+  203  code ~/.bashrc
+  204  nano ~/.bashrc
+  205  ll
+  206  python manage.py runserver
+  207  python manage.py migrate
+  208  python manage.py runserver
+  209  ll
+  210  npm install
+  211  with npm
+  212  wich npm
+  213  which npm
+  214  nano ~/.bashrc
+  215  docker --version
+  216  docker search
+  217  docker search php
+  218  docker images
+  219  docker search ubuntu
+  220  sudo docker run hello-world
+  221  sudo usermod -aG docker $USER
+  222  docker images
+  223  docker ps -a
+  224  docker container
+  225  docker ls -a
+  226  docker ps
+  227  docker ps -a
+  228  docker run hello-world
+  229  docker run ubuntu:22.04
+  230  docker images
+  231  docker run -it ubuntu bash
+  232  ll
+  233  docker ps
+  234  docker ps -a
+  235  docker search django
+  236  docker search nginx
+  237  docker run --name srv-web -p 8080:80 nginx
+  238  docker ps -a
+  239  docker port
+  240  docker run --name srv-web -d -p 8080:80 nginx
+  241  docker start fa1
+  242  docker start srv-web
+  243  docker ps
+  244  docker port srv-web
+  245  docker search python
+  246  docker pull python:3.11
+  247  docker images
+  248  docker pull python:latest
+  249  docker run -it python:latest bash
+  250  docker images
+  251  docker run -it ubuntu:latest bash
+  252  docker images
+  253  ll
+  254  pwd
+  255  ll
+  256  mkdir imagens-docker
+  257  mv imagens-docker projetos
+  258  cd projetos/imagens-docker
+  259  code Dockerfile
+  260  docker run -it ubuntu bash
+  261  ll
+  262  docker build -t fabiodesousaleal/django-python:1 .
+  263  ll
+  264  docker images
+  265  docker run -it fabiodesousaleal/django-python:1
+  266  docker run -it fabiodesousaleal/django-python
+  267  docker run -it fabiodesousaleal/django-python:1
+  268  exit
+  269  cd projetos/imagens-docker
+  270  ll
+  271  code Dockerfile
+  272  docker images
+  273  docker imagens
+  274  docker images
+  275  ll
+  276  docker ps -a
+  277  q
+  278  docker images
+  279  docker ps
+  280  docker imagens
+  281  docker images
+  282  docker run -it --name pinguim -d bbe9202130e9
+  283  docker run -it --name pinguim -d bbe9202130e9 bash
+  284  docker ps
+  285  docker run -it --name pinguim -d bbe9202130e9 bash
+  286  docker rm container bbe9202130e9
+  287  docker ps
+  288  docker run -it --name pinguim -d bbe9202130e9 bash
+  289  docker run -it -d bbe9202130e9 bash
+  290  docker ps
+  291  docker exec -it 7d45a01f5545
+  292  docker exec -it 7d45a01f5545 bash
+  293  docker ps -a
+  294  docker rm $(docker ps -q) --force
+  295  docker rm $(docker ps -a -q) --force
+  296  docker images
+  297  docker run --name pinguim -p 8000""
+  298  docker run --name pinguim -p 8000:8000 -d ubuntu:22.04 bash
+  299  docker ps
+  300  docker ps -
+  301  docker ps -a
+  302  docker exec -it pinguim bash
+  303  docker exec -it 341 bash
+  304  docker images
+  305  docker ps
+  306  docker ps -a
+  307  docker rm 341
+  308  docker ps -a
+  309  docker run -it -p 8000:8000 ubuntu:22.04 bash
+  310  which python3.11
+  311  nano ~/.bashrc
+  312  python --version
+  313  whitch python3.11
+  314  which python3.11
+  315  nano ~/.bashrc
+  316  source ~/.bashrc
+  317  exit
+  318  python3.11 --version
+  319  pwd
+  320  docker ps
+  321  docker-composer
+  322  docker-compose
+  323  docker-compose --version
+  324  docker ps
+  325  cd projetos
+  326  cd pinguimsabido/
+  327  ll
+  328  npm --version
+  329  which npm
+  330  code setup/settings.py
+  331  code .
+  332  py manage.py tailwind build
+  333  python manage.py tailwind build
+  334  pwd
+  335  source venv/bin/activate
+  336  python --version
+  337  npm --version
+  338  python manage.py tailwind build
+  339  python manage.py collectstatic
+  340  python -m pip install django-storages
+  341  python -m pip install boto3
+  342  python manage.py tailwind build
+  343  ll
+  344  python manage.py collectstatic
+  345  ll
+  346  pwd
+  347  python manage.py runserver
+  348  pwd
+  349  cd ..
+  350  pwd
+  351  ll
+  352  cd pinguimsabido
+  353  git status
+  354  code Dockerfile
+  355  ll
+  356  code Dockerfile .
+  357  >Dockerfile
+  358  ll
+  359  code Dockerfile
+  360  cd ..
+  361  cd imagens-docker
+  362  ll
+  363  code Dockerfile
+  364  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+  365  docker images
+  366  ll
+  367  docker build -t fabiodesousaleal/pinguimsabido:v.1 .
+  368  ll
+  369  pip install --no-cache-dir -r requirements.txt
+  370  pip install --no-cache-dir -r requeriments.txt
+  371  docker build -t fabiodesousaleal/pinguimsabido:v.1 .
+  372  docker build --no-cache -t fabiodesousaleal/pinguimsabido:v.1 .
+  373  docker build -t fabiodesousaleal/pinguimsabido:v.1 .
+  374  docker images
+  375  docker run -it -p 8000:8000 fabiodesousaleal/pinguimsabido:v.1 bash
+  376  docker ps
+  377  docker container stop
+  378  docker stop 209
+  379  docker rm 209 --force
+  380  docker ps -a
+  381  docker rm 38b --force
+  382  docker run -it -p 8000:8000 fabiodesousaleal/pinguimsabido:v.1 bash
+  383  docker exec -it fabiodesousaleal/pinguimsabido:v.1 bash
+  384  docker ps
+  385  docker ps -a
+  386  docker exec -it 47b3 bash
+  387  docker exec -it 47b bash
+  388  docker  rm 47b --force
+  389  docker run -it -p 8000:8000 fabiodesousaleal/pinguimsabido:v.1 bash
+  390  docker run -it --name srv-pinguim -p 8000:8000 ubuntu:22.04 bash
+  391  cd ../pinguimsabido
+  392  docker build -t fabiodesousaleal/teste:v.1 .
+  393  docker images
+  394  docker run -it --name ping -p 8000:8000 fabiodesousaleal/teste:v.1 bash
+  395  pwd
+  396  cd projetos
+  397  cd pinguimsabido
+  398  docker build --no-cache -t fabiodesousaleal/pinguimsabido:v.2 .
+  399  docker build --no-cache -t fabiodesousaleal/pinguimsabido:v.3 .
+  400  docker build -t fabiodesousaleal/pinguimsabido:v.3 .
+  401  code Dockerfile
+  402  cd projetos/pinguimsabido
+  403  docker build --no-cache -t fabiodesousaleal/pinguimsabido:v.3 .
+  404  ll
+  405  cp requeriments.txt requirements.txt
+  406  ll
+  407  docker build --no-cache -t fabiodesousaleal/pinguimsabido:v.3 .
+  408  docker build -t fabiodesousaleal/pinguimsabido:v.3 . 
+  409  docker build --no-cache -t fabiodesousaleal/pinguimsabido:v.3 .
+  410  docker run --name pinguim -p 8000:8000 fabiodesousaleal/teste:v.3
+  411  docker images
+  412  docker run --name pinguim -p 8000:8000 fabiodesousaleal/pinguimsabido:v.3
+  413  docker exec -it pinguim
+  414  docker images
+  415  docker ps
+  416  docker exec -t ^[[200~# Copy the current directory contents into the container at /app
+  417  docker exec -it 881 bash
+  418  docker run -it -d --name pinguim -p 8000:8000 fabiodesousaleal/pinguimsabido:v.3 bash
+  419  docker run -it -d --name pinguim2 -p 8000:8000 fabiodesousaleal/pinguimsabido:v.3 bash
+  420  docker ps
+  421  docker exec -it 4a6 bash
+  422  q
+  423  docker build --no-cache -t fabiodesousaleal/pinguimsabido:v.4 .
+  424  docker build -t fabiodesousaleal/pinguimsabido:v.4 .
+  425  docker images
+  426  docker run -it -p 8000:8000 fabiodesousaleal/pinguimsabido:v.4 bash
+  427  docker images
+  428  docker ps
+  429  code Dockerfile
+  430  docker images
+  431  ..
+  432  cd pinguimsabido
+  433  docker build -t fabiodesousaleal/pinguimsabido:v.6 .
+  434  docker images
+  435  docker build --no-cache -t fabiodesousaleal/pinguimsabido:v.6 .
+  436  docker images
+  437  docker search djagno
+  438  docker search django
+  439  docker search django -s
+  440  docker search django -z
+  441  docker search django
+  442  pwd
+  443  docker ps -a
+  444  docker images
+  445  lll
+  446  ll
+  447  cd projetos/pinguimsabido
+  448  code .
+  449  docker ps -a
+  450  ll
+  451  docker build -t fabiodesousaleal/django-fsl:v.1 .
+  452  docker images
+  453  docker search python
+  454  django
+  455  docker search django
+  456  docker images
+  457  pwd
+  458  docker run -it -v $(USER)/projetos/pinguimsabido:/app -p 8000:8000 fabiodesousaleal/django-fsl:v.1
+  459  docker run -it -v $(pwd)/projetos/pinguimsabido:/app -p 8000:8000 fabiodesousaleal/django-fsl:v.1
+  460  docker run -it -v $(pwd)/projetos/pinguimsabido:/app -p 8000:8000 fabiodesousaleal/django-fsl:v.1 bash
+  461  docker run -it -v "$(pwd)/projetos/pinguimsabido:/app" -p 8000:8000 fabiodesousaleal/django-fsl:v.1 bash
+  462  pwd
+  463  docker run -it --mount type=bind,source=$(pwd)/pinguimsabido,target=/app -p 8000:8000 fabiodesousaleal/django-fsl:v.1
+  464  docker run -it --mount type=bind,source=$(pwd)/projetos/pinguimsabido,target=/app -p 8000:8000 fabiodesousaleal/django-fsl:v.1 bash
+  465  ll
+  466  docker images
+  467  pwd
+  468  docker run -it -v /home/fabiodesousaleal/projetos/pinguimsabido:/app -p 8000:8000 fabiodesousaleal/django-fsl:v.1 bash
+  469  docker search django-tailwind
+  470  django .
+  471  django win
+  472  django .
+  473  docker images
+  474  docker run -t -v /home/fabiodesousaleal/projetos/pinguimsabido:/app -p 8000:8000 python:3.11 bash
+  475  docker ps -a
+  476  docker -b
+  477  docker images
+  478  ll
+  479  source venv/bin/activate
+  480  python manage.py tailwind build
+  481  python manage.py tailwind init
+  482  docker run -t -v /home/fabiodesousaleal/projetos/pinguimsabido:/app -p 8000:8000 fabiodesousaleal/django-fsl:v.1 bash
+  483  docker images
+  484  docker run -it --name teste -p 8000:8000 fabiodesousaleal/django-fsl:v.1 bash
+  485  cd projetos/pinguimsabido
+  486  ll
+  487  docker build -t fabiodesousaleal/django-fsl:v2 .
+  488  docker images
+  489  docker run -it -v /home/fabiodesousaleal/projetos/pinguimsabido:/app -p 8000:8000 fabiodesousaleal/django-fsl:v2 bash
+  490  docker search python
+  491  docker search ubuntu
+  492  docker images
+  493  docker run -p 8000:8000 fabiodesousaleal/django-fsl:v2 bash
+  494  docker run -it -p 8000:8000 fabiodesousaleal/django-fsl:v2 bash
+  495  code .
+  496  docker ps
+  497  docker images
+  498  cd projetos/pinguimsabido
+  499  ll
+  500  code Dockerfile
+  501  docker ps
+  502  ll
+  503  docker ps
+  504  docker start
+  505  docker images
+  506  docker search django-tailwind
+  507  docker images
+  508  git status
+  509  cd projetos/pinguimsabido
+  510  git pull
+  511  code Dockerfile
+  512  docker images
+  513  docker build -t fabiodesousaleal/pinguimsabido:v.7 .
+  514  docker images
+  515  docker rmi 78efff951dfd
+  516  docker images
+  517  docker run -it -p 8000:8000 fabiodesousaleal/pinguimsabido:v.7 bash
+  518  ll
+  519  pwd
+  520  who
+  521  chmod 777 fabiodesousaleal Dockerfile
+  522  chmod 777 Dockerfile
+  523  sudo chmod 777 Dockerfile
+  524  ll
+  525  code Dockerfile
+  526  docker run -it -p 8000:8000 fabiodesousaleal/pinguimsabido:v.7 bash
+  527  docker images
+  528  cd ..
+  529  cd imagens-docker
+  530  ll
+  531  code Dockerfile
+  532  mkdir ubuntu-django
+  533  cd ubuntu-django
+  534  code Dockerfile
+  535  docker build -t fabiodesousaleal/ubuntu-django:v.1
+  536  docker build -t fabiodesousaleal/ubuntu-django:v.1 .
+  537  docker images
+  538  docker run -it -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  539  docker run -it -p 8000:8000 ubuntu:22.04 bash
+  540  docker images
+  541  docker run -it -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  542  ll
+  543  code Dockerfile
+  544  docker images
+  545  docker rmi 4ae651f7918e
+  546  docker container rm $(docker ps -aq) --force
+  547  docker rmi 4ae651f7918e
+  548  docker rmi $(docker images -aq)
+  549  docker rmi $(docker images -aq) --force
+  550  docker images
+  551  docker build -t fabiodesousaleal/ubuntu-django:v.1 .
+  552  docker images
+  553  docker run -t -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  554  docker images
+  555  code Dockerfile
+  556  docker run -it -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  557  docker images
+  558  docker -z
+  559  exit
+  560  docker images
+  561  docker ps
+  562  docker run --name ubuntu-django -it -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  563  ll
+  564  cd projetos
+  565  ll
+  566  mkdir django-tailwind
+  567  cd django-tailwind
+  568  pwd
+  569  docker run --name django-tailwind -it -v /home/fabiodesousaleal/projetos/django-tailwind=/app -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  570  cd projetos/django-tailwind
+  571  code .
+  572  pwd
+  573  ll
+  574  docker run --name django-tailwind -it -v /home/fabiodesousaleal/projetos/django-tailwind=/app -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  575  ll
+  576  docker ps
+  577  docker inspect 7d94935927de
+  578  docker run --name django-tailwind -it -v /home/fabiodesousaleal/projetos/django-tailwind:/app -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  579  ll
+  580  docker run --name django-tailwind -it -v /home/fabiodesousaleal/projetos/django-tailwind:/app -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  581  docker ps
+  582  docker ps -a
+  583  docker exec -it django-admin bash
+  584  docker start django-admin
+  585  docker run --name django-tailwind -it -v /home/fabiodesousaleal/projetos/django-tailwind:/app -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  586  docker run --name django-tailwind -it -v /home/fabiodesousaleal/projetos/django-tailwind:/app/ -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  587  docker ps
+  588  docker ps -a
+  589  docker images
+  590  docker run -it -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 bash
+  591  docker run -it -p 8000:8000 -v docker run --name django-tailwind -it -v /home/fabiodesousaleal/projetos/django-tailwind=/app -p 8000:8000 fdocker run --name django-tailwind -it -v /home/fabiodesousaleal/projetos/django-tailwind=/app -p 8000:8000 fabiodesousaleal/ubuntu-django:v.1 basasd
+  592  pwd
+  593  docker run -it -p 8000:8000 -v /home/fabiodesousaleal/projetos/django-tailwind:/app fabiodesousaleal/ubuntu-django:v.1 bash
+  594  docker run -it -p 8000:8000 -v /home/fabiodesousaleal/projetos/django-tailwind:. fabiodesousaleal/ubuntu-django:v.1 bash
+  595  docker run -it -p 8000:8000 -v /home/fabiodesousaleal/projetos/django-tailwind:/app/ fabiodesousaleal/ubuntu-django:v.1 bash
+  596  docker images
+  597  docker run -it -p 8000:8000 -v /home/fabiodesousaleal/projetos/django-tailwind:/app fabiodesousaleal/ubuntu-django:v.1 bash
+  598  ll
+  599  code .
+  600  LL
+  601  ll
+  602  code Dockerfile
+  603  ll
+  604  docker build -t fabiodesousaleal/ubuntu-django:v.2 .
+  605  docker images
+  606  cd projetos/imagens-docker/
+  607  ll
+  608  cd ubuntu-django
+  609  ll
+  610  code Dockerfile
+  611  npm --version
+  612  which npm
+  613  nodejs --version
+  614  apt-get install nodejs18.13.0
+  615  sudo apt install nodejs18.13.0
+  616  code Dockerfile
+  617  docker images
+  618  docker build -t --no-cache fabiodesousaleal/ubuntu-django:v.2 .
+  619  history
+  620  docker build -t fabiodesousaleal/ubuntu-django:v.2 .
+  621  docker pull
+  622  docker images
+  623  docker run 43e16613022b
+  624  docker run -it -p 8000:8000 fabiodesousaleal/ubuntu-django:v.2 bash 
+  625  cd projetos/imagens-docker/ubuntu-django
+  626  code Dockerfile
+  627  docker images
+  628  docker build --no-cache -t fabiodesousaleal/ubuntu-django:v.3 .
+  629  docker images
+  630  docker run -it -p 8000:8000 fabiodesousaleal/ubuntu-django:v.3 bash
+  631  node --version
+  632  cd projetos/imagens-docker/ubuntu-django
+  633  code .
+  634  eixt
+  635  exit
+  636  qu
+  637  docker images
+  638  docker pull ubuntu
+  639  ll
+  640  docker images
+  641  ..
+  642  pwd
+  643  ll
+  644  docker ps
+  645  ll
+  646  docker images
+  647  docker pull
+  648  docker ll
+  649  cd ..
+  650  pwd
+  651  ll
+  652  cd home
+  653  ll
+  654  docker images
+  655  ll
+  656  cd fabiodesousaleal
+  657  ll
+  658  cd projetos
+  659  ll
+  660  python --version
+  661  node --version
+  662  apt remove node
+  663  sudo apt remove node
+  664  node --version
+  665  sudo apt remove nodejs
+  666  code .
+  667  docker ps
+  668  lls
+  669  docker images
+  670  cd projetos
+  671  ll
+  672  cd django-teste
+  673  ll
+  674  exit
+  675  ll
+  676  cd projetos
+  677  ll
+  678  cd django-teste
+  679  ll
+  680  ..
+  681  ll
+  682  docker images
+  683  ll
+  684  cd ..
+  685  cd projetos
+  686  ll
+  687  ifconfig
+  688  ipconfig
+  689  ping www.google.com
+  690  ifconfig
+  691  exit
+  692  docker images
+  693  docker rmi cd96589b8a36
+  694  docker rmi cd96589b8a36 --force[
+  695  docker rmi cd96589b8a36 --force
+  696  docker images
+  697  docker rmi 43e16613022b --force
+  698  docker images
+  699  docker rmi 601e03584664
+  700  docker images
+  701  docker run -it --name container-ubuntu ubuntu:latest bash
+  702  pwd
+  703  python --version
+  704  sudo apt update
+  705  sudo apt-get update
+  706  ll
+  707  docker start container-ubuntu bash
+  708  docker start container-ubuntu -it bash
+  709  docker start -it container-ubuntu -bash
+  710  docker start -it container-ubuntu
+  711  docker start container-ubuntu
+  712  docker exec -it container-ubuntu bash
+  713  sudo apt-get install curl
+  714  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+  715  nvm --version
+  716  code .profile
+  717  source .profile
+  718  nvm --version
+  719  export NVM_DIR="$HOME/.nvm"
+  720  nvm --version
+  721  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+  722  nvm --version
+  723  nvm install 18.16
+  724  export NVM_DIR="$HOME/.nvm"\n[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm\n[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+  725  nvm install 18.16
+  726  code .profile
+  727  node --version
+  728  npm --version
+  729  which npm
+  730  which nodejs
+  731  which node
+  732  cd projetos
+  733  ll
+  734  cd pinguimsabido
+  735  ll
+  736  python --version
+  737  python -v
+  738  sudo apt-get install python3.11 python3.11-venv
+  739  which python3.11
+  740  python --version
+  741  ll
+  742  source venv/bin/activate
+  743  python --version
+  744  node --version
+  745  npm --version
+  746  code .
+  747  which npm
+  748  pwd
+  749  who
+  750  ll
+  751  cd ..
+  752  ll
+  753  chown fabiodesousaleal -R pinguimsabido/
+  754  sudo chown fabiodesousaleal -R pinguimsabido/
+  755  ll
+  756  cd pinguimsabido
+  757  ll
+  758  sudo rm -D pinguimsabido
+  759  sudo rm -R pinguimsabido
+  760  sudo rm -R projetos
+  761  ll
+  762  pip freeze
+  763  ll
+  764  python manage.py tailwind build
+  765  which npm
+  766  code .
+  767  code . -Y
+  768  code . -y[
+  769  code . -y
+  770  code -y .
+  771  code .
+  772  python manage.py tailwind build
+  773  npm install -g npm@9.7.2
+  774  python manage.py tailwind build
+  775  python manage.py runserver 0.0.0.0:8000
+  776  code ~/.profile
+  777  python manage.py tailwind build
+  778  npm install --save-dev cross-env
+  779  npm install -g cross-env
+  780  yarn add cross-env --dev
+  781  python manage.py tailwind build
+  782  python -m pip install --upgrade django-tailwind
+  783  python manage.py tailwind build
+  784  ll
+  785  cd ..
+  786  ll
+  787  cd django-tailwind
+  788  ll
+  789  pip freeze
+  790  xit
+  791  exit
+  792  pwd
+  793  who
+  794  whoi
+  795  when
+  796  wich
+  797  which
+  798  pwd
+  799  ll
+  800  cd projetos
+  801  ll
+  802  npm --version
+  803  which node
+  804  ll
+  805  mkdir django-tailwind-wsl
+  806  mkdir django-tailwind-docker
+  807  ll
+  808  cd django-tailwind-wsl
+  809  python3.11 -m venv venv
+  810  source venv/bin/activate
+  811  pip install django
+  812  django-admin startproject setup .
+  813  ll
+  814  python manage.py migrate
+  815  ll
+  816  history
+  817  ll
+  818  django-admin createsuperuser
+  819  django-admin createsuperuse
+  820  python manage.py createsuperuser
+  821  history
+  822  python manage.py runserver 0.0.0.0:8000
+  823  ll
+  824  mkdir apps
+  825  ll
+  826  cd apps
+  827  cd ..
+  828  django-admin startapp questoes /apps
+  829  django-admin startapp questoes apps
+  830  ll
+  831  cd apps
+  832  ll
+  833  cd ..
+  834  ll
+  835  cd apps
+  836  sudo rm *
+  837  sudo rm -R *
+  838  ll
+  839  cd ..
+  840  django-admin startapp questoes apps/questoes
+  841  cd apps
+  842  mkdir questoes
+  843  ll
+  844  cd ..
+  845  django-admin startapp questoes apps/questoes
+  846  ll
+  847  cd apps
+  848  ll
+  849  cd questoes
+  850  ll
+  851  cd ..
+  852  ll
+  853  cd ..
+  854  ll
+  855  cd ..
+  856  cd projetos
+  857  ll
+  858  cd django-tailwind-wsl
+  859  ll
+  860  code .
+  861  cd projetos
+  862  ll
+  863  cd django-tailwind-wsl
+  864  ll
+  865  code .
+  866  cd ..
+  867  cd pinguimsabido
+  868  ll
+  869  cd ..
+  870  ll
+  871  code .
+  872  cd django-tailwind-wsl
+  873  ll
+  874  source venv/bin/activate
+  875  python manage.py runserver 0.0.0.0:8000
+  876  py manage.py collectstatic
+  877  python manage.py collectstatic
+  878  exit
+  879  cd projetos
+  880  ll
+  881  cd django-tailwind-wsl
+  882  ll
+  883  source venv/bin/activate
+  884  python manage.py runserver 0.0.0.0:8000
+  885  code .
+  886  python manage.py runserver 0.0.0.0:8000
+  887  pwd
+  888  ll
+  889  cd projetos
+  890  ll
+  891  cd django-tailwind-wsl
+  892  ll
+  893  source venv/bin/activate
+  894  python manage.py runserver 0.0.0.0:8000
+  895  code .
+  896  python manage.py runserver 0.0.0.0:8000
+  897  history
+  898  exit
+  899  python --version
+  900  cd projetos
+  901  docker
+  902  docker images
+  903  cd ..
+  904  ll
+  905  cd ..
+  906  ll
+  907  cd mnt
+  908  ll
+  909  cd c
+  910  ll
+  911  lçlasdkjçlkj
+  912  cd ..
+  913  cd ~
+  914  python --version
+  915  cd projetos
+  916  ll
+  917  cd django-tailwind-wsl
+  918  python --version
+  919  ll
+  920  source venv/bin/activate
+  921  python --version
+  922  python
+  923  lll
+  924  python -m django --version
+  925  exit
+  926  ll
+  927  cd projetos
+  928  mkdir fernando
+  929  cd fernando
+  930  python3.11 -m venv venv
+  931  ll
+  932  source venv/bin/activate
+  933  django-admin startproject setup .
+  934  pip install django
+  935  django-admin startproject setup .
+  936  ll
+  937  python manage.py createsuperuser
+  938  ll
+  939  python manage.py migrate
+  940  ll
+  941  python manage.py createsuperuser
+  942  python manage.py runserver 0.0.0.0:8000
+  943  ll
+  944  code .
+  945  exit
+  946  cd projetos/django-tailwind-wsl
+  947  ll
+  948  code .
+  949  cd projetos
+  950  ll
+  951  mkdir FINANCE_PSW
+  952  MKDIR FINANCE_PSW
+  953  ll
+  954  cd FINANCE_PSW
+  955  ll
+  956  python3 -m venv venv
+  957  python3.11 -m venv venv
+  958  source venv/bin/activate
+  959  pytthon
+  960  code .
+  961  source /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/activate
+  962  /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/python /home/fabiodesousaleal/projetos/FINANCE_PSW/teste.py
+  963  cd ..
+  964  exit
+  965  cd projetos
+  966  mkdir automacao
+  967  ll
+  968  cd automacao
+  969  ll
+  970  python3.11 venv venv
+  971  python3.11 -m venv venv
+  972  source venv/bin/activate
+  973  code .
+  974  /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/python /home/fabiodesousaleal/projetos/FINANCE_PSW/teste.py
+  975  pip install playwright
+  976  /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/python /home/fabiodesousaleal/projetos/FINANCE_PSW/teste.py
+  977  install playwright
+  978  apt install playwright
+  979  playwright install
+  980  sudo apt-get install python3-dev libnss3-dev libgconf-2-4 libfontconfig1
+  981  playwright install
+  982  pip3 install playwright
+  983  playwright install
+  984  /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/python /home/fabiodesousaleal/projetos/FINANCE_PSW/teste.py
+  985  playwright install
+  986  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+  987  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/automacao/teste
+  988  /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/python /home/fabiodesousaleal/projetos/FINANCE_PSW/teste.py
+  989  exit
+  990  cd projetos/FINANCE_PSW
+  991  source venv/bin/activate
+  992  pip install django
+  993  pip install pillow
+  994  django-admin start project core .
+  995  django-admin startproject core .
+  996  code .
+  997  source /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/activate
+  998  python manage.py startapp perfil
+  999  ll
+ 1000  django-admin startapp perfil
+ 1001  python manage.py runserver
+ 1002  python manage.py runserver 0.0.0.0:8000
+ 1003  ll
+ 1004  python manage.py runserver 0.0.0.0:8000
+ 1005  exit
+ 1006  cd ..
+ 1007  xit
+ 1008  exit
+ 1009  cd projetos/
+ 1010  LL
+ 1011  ll
+ 1012  cd FINANCE_PSW
+ 1013  ll
+ 1014  rm -R *.
+ 1015  rm -R .*
+ 1016  sudo rm -R .*
+ 1017  sudo rm -R *
+ 1018  ll
+ 1019  python3.11 -m venv venv
+ 1020  ll
+ 1021  source venv/bin/activate
+ 1022  pip install django
+ 1023  pip install pillow
+ 1024  ll
+ 1025  django-admin startproject core .
+ 1026  ll
+ 1027  python manage.py runserver
+ 1028  python manage.py migrate
+ 1029  django-admin startapp perfil
+ 1030  code .
+ 1031  ifconfig
+ 1032  code .
+ 1033  source /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/activate
+ 1034  python manage.py runserver
+ 1035  ll
+ 1036  cd templates
+ 1037  ll
+ 1038  cd ..
+ 1039  ll
+ 1040  cd templates
+ 1041  ll
+ 1042  cd static
+ 1043  ll
+ 1044  cd geral
+ 1045  ll
+ 1046  cd css
+ 1047  ll
+ 1048  python manage.py runserver
+ 1049  exit
+ 1050  ll
+ 1051  cd projetos
+ 1052  ll
+ 1053  cd FINANCE_PSW
+ 1054  LL
+ 1055  ll
+ 1056  source venv/bin/activate
+ 1057  py manage.py runserver
+ 1058  python manage.py runserver
+ 1059  cd projetos/FINANCE_PSW
+ 1060  code .
+ 1061  cd projetos/FINANCE_PSW
+ 1062  source venv/bin/activate
+ 1063  ll
+ 1064  python manage.py runserver
+ 1065  code .
+ 1066  python manage.py makemigrations
+ 1067  migrate
+ 1068  python manage.py migrate
+ 1069  history
+ 1070  python manage.py runserver
+ 1071  cd projetos/FINANCE_PSW
+ 1072  source venv/bin/activate
+ 1073  ll
+ 1074  code .
+ 1075  source /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/activate
+ 1076  python manage.py runserver
+ 1077  source /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/activate
+ 1078  python manage.py makemigrations
+ 1079  python manage.py migrate
+ 1080  cd projetos/FINANCE_PSW
+ 1081  source venv/bin/activate
+ 1082  python manage.py runserver
+ 1083  cd projetos/FINANCE_PSW
+ 1084  code .
+ 1085  source /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/activate
+ 1086  python manage.py runserver
+ 1087  cd projetos/FINANCE_PSW
+ 1088  code .
+ 1089  source /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/activate
+ 1090  ll
+ 1091  source venv/bin/activate
+ 1092  python manage.py runserver
+ 1093  cd projetos/FINANCE_PSW
+ 1094  source venv/bin/activate
+ 1095  python manage.py startapp extrato
+ 1096  code .
+ 1097  source /home/fabiodesousaleal/projetos/FINANCE_PSW/venv/bin/activate
+ 1098  cd projetos
+ 1099  cd FINANCE_PSW
+ 1100  source venv/bin/activate
+ 1101  python manage.py runserver
+ 1102  python manage.py makemigrations
+ 1103  python manage.py migrate
+ 1104  python manage.py createsuperuse
+ 1105  python manage.py createsuperuser
+ 1106  pip install weasyprint
+ 1107  apt install python3-pip libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0
+ 1108  apt install python3-pip libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0 apt install python3-pip libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0
+ 1109  sudo apt install python3-pip libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0
+ 1110  pip install weasyprint
+ 1111  apt install python3-pip libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0 libffi-dev libjpeg-dev libopenjp2-7-dev
+ 1112  sudo apt install python3-pip libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0 libffi-dev libjpeg-dev libopenjp2-7-dev
+ 1113  sudo apt install python3-pip libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0 libffi-dev libjpeg-dev libopenjp2-7-dev --fix-missing
+ 1114  apt-get update
+ 1115  sudo apt-get update -y
+ 1116  sudo apt update
+ 1117  sudo apt install python3-pip libpango-1.0-0 libharfbuzz0b libpangoft2-1.0-0 libffi-dev libjpeg-dev libopenjp2-7-dev
+ 1118  pip install weasyprint --force
+ 1119  pip install weasyprint
+ 1120  python -m pip install weasyprint
+ 1121  ll
+ 1122  cd projetos/FINANCE_PSW
+ 1123  source venv/bin/activate
+ 1124  sudo pip --upgrade
+ 1125  sudo pip install --upgrade
+ 1126  sudo pip --upgrade
+ 1127  sudo pip install --upgrade pip
+ 1128  exit
+ 1129  pip install --upgrade pip
+ 1130  python -m pip install weasyprint
+ 1131  python3.11 -m pip install weasyprint
+ 1132  pip update
+ 1133  cd projetos/FINANCE_PSW
+ 1134  source venv/bin/activate
+ 1135  python -m pip install weasyprint
+ 1136  exit
+ 1137  docker images
+ 1138  cd projetos
+ 1139  ll
+ 1140  cd FINANCE_PSW
+ 1141  ll
+ 1142  >Dockerfile
+ 1143  ll
+ 1144  code .
+ 1145  cd ..
+ 1146  ll
+ 1147  mkdir ubuntu-django
+ 1148  ll
+ 1149  cd ubuntu-django
+ 1150  code .
+ 1151  docker build -t fabiodesousaleal/ubuntu-django:v.1 .
+ 1152  docker images
+ 1153  docker search ubuntu
+ 1154  docker build -t fabiodesousaleal/ubuntu-django:v.1 .
+ 1155  docker images
+ 1156  docker run -it e54d10d39419 bash
+ 1157  cd projetos
+ 1158  ll
+ 1159  cd ubuntu-django
+ 1160  cd ll
+ 1161  docker images
+ 1162  docker run --name finance -it e54d10d39419 bash
+ 1163  ll
+ 1164  cd ..
+ 1165  cd FINANCE_PSW
+ 1166  ll
+ 1167  code .
+ 1168  pwd
+ 1169  docker run -it --name finance-container -v /home/fabiodesousaleal/projetos/FINANCE_PSW:app/ -p 8000:8000 e54d10d39419 bash
+ 1170  docker run -it --name finance-container -v /home/fabiodesousaleal/projetos/FINANCE_PSW:/app -p 8000:8000 e54d10d39419 bash
+ 1171  python3 -m pip install weasyprint
+ 1172  sudo apt install weasyprint
+ 1173  cd projetos/FINANCE_PSW
+ 1174  code .
+ 1175  cd ..
+ 1176  ll
+ 1177  code .
+ 1178  cd projetos
+ 1179  code .
+ 1180  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1181  exit
+ 1182  ll
+ 1183  cd django-tailwind-wsl
+ 1184  code .
+ 1185  source /home/fabiodesousaleal/projetos/django-tailwind-wsl/venv/bin/activate
+ 1186  pip freeze >requerimentos.txt
+ 1187  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1188  python manage.py runserver
+ 1189  cd ..
+ 1190  ll
+ 1191  cd pinguimsabido
+ 1192  git status
+ 1193  git log
+ 1194  git log --oneline
+ 1195  git reset --hard 3fc5d75
+ 1196  code .
+ 1197  npm --version
+ 1198  node --version
+ 1199  which node
+ 1200  ll
+ 1201  rm -R theme
+ 1202  ll
+ 1203  python --version
+ 1204  python -v
+ 1205  python3.11 -m venv venv
+ 1206  source venv/bin/activate
+ 1207  python -m django --version
+ 1208  pip install django
+ 1209  python -m django --version
+ 1210  ll
+ 1211  which node
+ 1212  ll
+ 1213  apt-get update
+ 1214  sudo apt-get update
+ 1215  pip install pip --upgrade
+ 1216  pip install python-dotenv
+ 1217  pip install pillow
+ 1218  pip install django-ckeditor
+ 1219  py manage.py runserver
+ 1220  python manage.py runserver
+ 1221  pip install django-tailwind
+ 1222  python manage.py tailwind init
+ 1223  python manage.py tailwind install
+ 1224  which node
+ 1225  sudo ln -s /home/fabiodesousaleal/.nvm/versions/node/v18.16.1/bin/node /usr/local/bin/node
+ 1226  python manage.py tailwind install
+ 1227  cd /usr/local/bin
+ 1228  ll
+ 1229  npm --version
+ 1230  cd..
+ 1231  cd ..
+ 1232  ll
+ 1233  cd /home/fabiodesousaleal
+ 1234  cd projetos/
+ 1235  cd pinguimsabido
+ 1236  which node
+ 1237  python manage.py tailwind install
+ 1238  npm tailwind install
+ 1239  run npm tailwind install
+ 1240  npm install
+ 1241  npm run tailwind install
+ 1242  npm run tailwind
+ 1243  python manage.py tailwind install
+ 1244  exit
+ 1245  cd projetos
+ 1246  ll
+ 1247  cd django-tailwind-wsl
+ 1248  code .
+ 1249  source /home/fabiodesousaleal/projetos/django-tailwind-wsl/venv/bin/activate
+ 1250  python -m pip install django-tailwind
+ 1251  which npm
+ 1252  python manage.py tailwind init
+ 1253  python manage.py tailwind install
+ 1254  python manage.py tailwind build
+ 1255  python manage.py runserver
+ 1256  exit
+ 1257  cd ..
+ 1258  cd ll
+ 1259  ll
+ 1260  cd pinguimsabido
+ 1261  ll
+ 1262  code .
+ 1263  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1264  python manage.py tailwind install
+ 1265  python manage.py tailwind build
+ 1266  python manage.py runserver
+ 1267  python -m pip install django-browser-reload
+ 1268  python manage.py runserver
+ 1269  python -m pip install django-tailwind[reload]
+ 1270  python manage.py runserver
+ 1271  exitr
+ 1272  exit
+ 1273  cd projetos
+ 1274  ll
+ 1275  cd django-tailwind-wsl
+ 1276  code .
+ 1277  source /home/fabiodesousaleal/projetos/django-tailwind-wsl/venv/bin/activate
+ 1278  /home/fabiodesousaleal/projetos/django-tailwind-wsl/venv/bin/python
+ 1279  py manage.py runserver
+ 1280  python manage.py runserver
+ 1281  cd projetos
+ 1282  ll
+ 1283  cd django-tailwind-wsl
+ 1284  ll
+ 1285  source venv/bin/activate
+ 1286  python manage.py tailwind build
+ 1287  pip freeze >requerimentos.txt
+ 1288  code .
+ 1289  source /home/fabiodesousaleal/projetos/django-tailwind-wsl/venv/bin/activate
+ 1290  python manage.py runserver
+ 1291  source /home/fabiodesousaleal/projetos/django-tailwind-wsl/venv/bin/activate
+ 1292  python manage.py tailwind start
+ 1293  npm --version
+ 1294  node --version
+ 1295  pip install django-ckeditor
+ 1296  python manage.py collectstatic
+ 1297  python manage.py makemigrations
+ 1298  python manage.py migrate
+ 1299  python manage.py runserver
+ 1300  python manage.py migrate
+ 1301  python manage.py makemigrations
+ 1302  python manage.py migrate
+ 1303  cd ..
+ 1304  code .
+ 1305  ll
+ 1306  cd projetos
+ 1307  ll
+ 1308  cd django-tailwind-wsl
+ 1309  ll
+ 1310  source venv/bin/activate
+ 1311  py manage.py runserver
+ 1312  python manage.py runserver
+ 1313  code .
+ 1314  source venv/bin/activate
+ 1315  pip install django-storages
+ 1316  pip install boto3
+ 1317  cd ..
+ 1318  ll
+ 1319  code .
+ 1320  rm -R pinguimsabido --force
+ 1321  git clone git@github.com:fabiodesousaleal/pinguimsabido.git
+ 1322  code .
+ 1323  ll
+ 1324  exit
+ 1325  cd projetos
+ 1326  cd pinguimsabido/
+ 1327  ll
+ 1328  python3.11 -m venv venv
+ 1329  source venv/bin/activate
+ 1330  ll
+ 1331  code .
+ 1332  pip install -r requeriments.txt --upgrade
+ 1333  python3.11 -m django --version
+ 1334  python manage.py tailwind install
+ 1335  which node
+ 1336  python manage.py tailwind install
+ 1337  python manage.py tailwind build
+ 1338  python manage.py collectstatic
+ 1339  python manage.py runserver
+ 1340  python manage.py migrate
+ 1341  python manage.py runserver
+ 1342  ll
+ 1343  pip freeze >requerimentos.txt
+ 1344  python3.11 -m pip install django --upgrade
+ 1345  python3.11 -m pip install django-tailwind --upgrade
+ 1346  python manage.py runserver
+ 1347  python manage.py tailwind build
+ 1348  python manage.py runserver
+ 1349  pip freeze >requerimentos.txt
+ 1350  git status
+ 1351  python manage.py runserver
+ 1352  cd projetos/pinguimsabido
+ 1353  source venv/bin/activate
+ 1354  code .
+ 1355  python manage.py runserver
+ 1356  cd projetos
+ 1357  ll
+ 1358  cd pinguimsabido
+ 1359  source venv/bin/activate
+ 1360  python manage.py runserver
+ 1361  cd projetos
+ 1362  cd pinguimsabido
+ 1363  code .
+ 1364  exit
+ 1365  ll
+ 1366  cd projetos
+ 1367  ll
+ 1368  cd pinguimsabido
+ 1369  ll
+ 1370  python manage.py runserver
+ 1371  source venv/bin/activate
+ 1372  python manage.py runserver
+ 1373  code .
+ 1374  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1375  python manage.py make migrations
+ 1376  python manage.py makemigrations
+ 1377  python manage.py migrate
+ 1378  python manage.py runserver
+ 1379  pip install django-ckeditor --upgrade
+ 1380  python manage.py runserver
+ 1381  $ ./manage.py generateckeditorthumbnails\n
+ 1382  python manage.py generateckeditorthumbnails\n
+ 1383  ./manage.py generateckeditorthumbnails
+ 1384  sudo ./manage.py generateckeditorthumbnails
+ 1385  ./manage.py generateckeditorthumbnails
+ 1386  sudo ./manage.py generateckeditorthumbnails
+ 1387  sudo python manage.py generateckeditorthumbnails
+ 1388  python manage.py generateckeditorthumbnails
+ 1389  python manage.py runserver
+ 1390  code projetos/pinguimsabido
+ 1391  cd projetos
+ 1392  cd pinguimsabido
+ 1393  ll
+ 1394  source venv/bin/activate
+ 1395  python manage.py runserver
+ 1396  \tcd projetos/pinguimsabido
+ 1397  code .
+ 1398  python manage.py runserver
+ 1399  python manage.py createsuperuser
+ 1400  python manage.py runserver
+ 1401  cd projetos/pinguimsabido
+ 1402  source venv/bin/activate
+ 1403  python manage.py runserver
+ 1404  cd projetos/pinguimsabido
+ 1405  code -y
+ 1406  code .
+ 1407  python manage.py collectstatic
+ 1408  python manage.py runserver
+ 1409  source venv/bin/activate
+ 1410  python manage.py runserver
+ 1411  cd projetos/pinguimsabido
+ 1412  ll
+ 1413  source venv/bin/activate
+ 1414  python manage.py runserver
+ 1415  cd projetos/pinguimsabido
+ 1416  ll
+ 1417  code .
+ 1418  source venv/bin/activate
+ 1419  python manage.py runserver
+ 1420  python manage.py makemigrations
+ 1421  python manage.py migrate
+ 1422  python manage.py runserver
+ 1423  git status
+ 1424  git add .
+ 1425  git status
+ 1426  git commit -m "alterando campos de edição de texto com CKEDITOR"
+ 1427  git config --global user.email "fsl2@msn.com"
+ 1428  git config --global user.name "Fábio de Sousa Leal"
+ 1429  git commit -m "alterando campos de edição de texto com CKEDITOR"
+ 1430  git push
+ 1431  git log --oneline
+ 1432  python manage.py build
+ 1433  python manage.py tailwind build
+ 1434  python manage.py collectstatic --only static/assets\n
+ 1435  python manage.py collectstatic --only static\n
+ 1436  python manage.py collectstatic --only assets
+ 1437  python manage.py collectstatic --only static\assets
+ 1438  python manage.py collectstatic --only static/assets
+ 1439  python manage.py collectstatic --only
+ 1440  python manage.py collectstatic
+ 1441  python manage.py tailwind build
+ 1442  python manage.py runserver
+ 1443  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1444  pip freeze >requerimentos.txt
+ 1445  git add requerimentos.txt
+ 1446  git commit -m "Adicionando requerimentos do projeto"
+ 1447  git push
+ 1448  cd projetos/pinguimsabido
+ 1449  source venv/bin/activate
+ 1450  git pull
+ 1451  python manage.py runserver
+ 1452  cd projetos/pinguimsabido
+ 1453  code .
+ 1454  pwd
+ 1455  ll
+ 1456  ssh ubuntu-pinguimdev@54.237.144.184
+ 1457  ll
+ 1458  ssh -i keyPinguim.pem ubuntu-pinguimdev@54.237.144.184 -t 
+ 1459  ssh -i keyPinguim.pem ubuntu-pinguimdev@54.237.144.184
+ 1460  ssh -i keyPinguim.pem ubuntu@54.237.144.184
+ 1461  cd projetos/pinguimsabido
+ 1462  ll
+ 1463  source venv/bin/activate
+ 1464  code .
+ 1465  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1466  python manage.py runserver
+ 1467  exit
+ 1468  ll
+ 1469  cd projetos/pinguimsabido
+ 1470  cd ..
+ 1471  ll
+ 1472  cd pinguimsabido
+ 1473  source venv/bin/activate
+ 1474  pytthon
+ 1475  python
+ 1476  code .
+ 1477  ll
+ 1478  cd projetos
+ 1479  ll
+ 1480  cd django-teste
+ 1481  ll
+ 1482  python3.11 -m venv venv
+ 1483  source venv/bin/activate
+ 1484  python manage.py shell
+ 1485  python manage.py django-shell
+ 1486  python manage.py django
+ 1487  python manage.py django --version
+ 1488  pip install django
+ 1489  xit
+ 1490  exit
+ 1491  cd projetos/pinguimsabido
+ 1492  source venv/bin/activate
+ 1493  python manage.py django-shell
+ 1494  python manage.py dbshell
+ 1495  python manage.py shell
+ 1496  cd projetos/pinguimsabido
+ 1497  source venv/bin/activate
+ 1498  code .
+ 1499  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1500  ll
+ 1501  python manage.py shell
+ 1502  code .
+ 1503  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1504  cd projetos
+ 1505  cd pinguimsabido
+ 1506  python manage.py runserver
+ 1507  code .
+ 1508  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1509  python manage.py runserver
+ 1510  def __str__(self):        \n        return f'<strong>Cargo</strong>: {self.cargo} <strong>Orgão</strong>: {self.orgao} <strong>Banca</strong>: {self.banca}'
+ 1511  git status
+ 1512  git checkout .
+ 1513  git status
+ 1514  git pull
+ 1515  git log
+ 1516  python manage.py migrate
+ 1517  sourve venv/bin/activate
+ 1518  source venv/bin/activate
+ 1519  python manage.py migrate
+ 1520  python manage.py runserver
+ 1521  git log --oneline
+ 1522  git statusd
+ 1523  git status
+ 1524  git log
+ 1525  git log --oneline
+ 1526  git log -p d992439
+ 1527  git log --help
+ 1528  git log -help
+ 1529  git log -p --name
+ 1530  git log -p --name d992439
+ 1531  git log -p -name d992439
+ 1532  git log -p --name-only d992439
+ 1533  git log -p c7402f6f0c562465cd38c9c9ac345591410007bf
+ 1534  code .
+ 1535  git status
+ 1536  git log --oneline
+ 1537  git push
+ 1538  git log
+ 1539  cd projetos/pinguimsabido
+ 1540  git pull
+ 1541  source venv/bin/activate
+ 1542  git pull
+ 1543  python manage.py runserver
+ 1544  cd projetos/pinguimsabido
+ 1545  code .
+ 1546  exit
+ 1547  source venv/bin/activate
+ 1548  git pull
+ 1549  git checkout .
+ 1550  git pull
+ 1551  git config pull.rebase false
+ 1552  git pull
+ 1553  python manage.py migrate
+ 1554  python manage.py runserver
+ 1555  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1556  git status
+ 1557  git log
+ 1558  git add .
+ 1559  git commit -m "Iniciando contrução do formulario add jogoPinguim"
+ 1560  git push
+ 1561  exit
+ 1562  cd projetos/pinguimsabido
+ 1563  git pull
+ 1564  source venv/bin/activate
+ 1565  python manage.py runserver
+ 1566  python manage.py migrate
+ 1567  python manage.py runserver
+ 1568  python manage.py runserver 0.0.0.0:8000
+ 1569  python manage.py runserver 0.0.0.0:8090
+ 1570  source venv/bin/activate
+ 1571  python manage.py collectstatic
+ 1572  python manage.py runserver 0.0.0.0:8090
+ 1573  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1574  cd projetos/pinguimsabido
+ 1575  source venv/bin/activate
+ 1576  python manage.py runserver
+ 1577  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1578  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python
+ 1579  python manage.py runserver
+ 1580  cd projetos/pinguimsabido
+ 1581  source venv/bin/activate
+ 1582  python manage.py runserver
+ 1583  python manage.py makemigrations
+ 1584  python manage.py migrate
+ 1585  python manage.py runserver
+ 1586  cd projetos/pinguimsabido
+ 1587  source venv/bin/activate
+ 1588  python manage.py runserver
+ 1589  cls
+ 1590  python manage.py runserver
+ 1591  cd projetos/pinguimsabido
+ 1592  source venv/bin/activate
+ 1593  python manage.py runserver
+ 1594  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1595  python manage.py tailwind start
+ 1596  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1597  python manage.py tailwind build
+ 1598  python manage.py tailwind start
+ 1599  source venv/bin/activate
+ 1600  python manage.py runserver
+ 1601  python manage.py tailwind start
+ 1602  python manage.py collectstatic
+ 1603  python manage.py tailwind start
+ 1604  python manage.py tailwind build
+ 1605  python manage.py collectstatic
+ 1606  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1607  python manage.py tailwind start
+ 1608  cd projetos/pinguimsabido
+ 1609  source venv/bin/activate
+ 1610  python manage.py runserver
+ 1611  source venv/bin/activate
+ 1612  python manage.py makemigrations
+ 1613  python manage.py migrate
+ 1614  cd projetos/pinguimsabido
+ 1615  source venv/bin/activate
+ 1616  python manage.py runserver
+ 1617  exit
+ 1618  cd projetos/pinguimsabido
+ 1619  source venv/bin/activate
+ 1620  python manage.py runserver
+ 1621  source venv/bin/activate
+ 1622  python manage.py tailwind start
+ 1623  python manage.py tailwind build
+ 1624  python manage.py collectstatic
+ 1625  python manage.py runserver
+ 1626  python manage.py collectstatic
+ 1627  python manage.py tailwind build
+ 1628  python manage.py collectstatic
+ 1629  python manage.py tailwind build
+ 1630  python manage.py collectstatic
+ 1631  python manage.py tailwind build
+ 1632  python manage.py collectstatic
+ 1633  python manage.py tailwind start
+ 1634  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1635  python manage.py tailwind build
+ 1636  python manage.py collectstatic
+ 1637  python manage.py tailwind build
+ 1638  python manage.py collectstatic
+ 1639  python manage.py tailwind build
+ 1640  python manage.py collectstatic
+ 1641  python manage.py tailwind build
+ 1642  python manage.py collectstatic
+ 1643  python manage.py runserver
+ 1644  python manage.py tailwind build
+ 1645  python manage.py collectstatic
+ 1646  python manage.py runserver
+ 1647  python manage.py tailwind build
+ 1648  python manage.py collectstatic
+ 1649  python manage.py tailwind build
+ 1650  python manage.py collectstatic
+ 1651  git status
+ 1652  git add .
+ 1653  git log
+ 1654  cd projetos/pinguimsabido
+ 1655  source venv/bin/activate
+ 1656  python manage.py runserver
+ 1657  ..
+ 1658  pwd
+ 1659  mkdir SUPREMO
+ 1660  cd SUPREMO
+ 1661  ll
+ 1662  python --version
+ 1663  python3.11 -m venv venv
+ 1664  ll
+ 1665  source venv/bin/activate
+ 1666  pip install django
+ 1667  ll
+ 1668  django-admin startproject conf .
+ 1669  ll
+ 1670  code .
+ 1671  source /home/fabiodesousaleal/projetos/SUPREMO/venv/bin/activate
+ 1672  python manage.py migrate
+ 1673  python manage.py createsuperuse
+ 1674  python manage.py createsuperuser
+ 1675  python manage.py runserver 0.0.0.0:8090
+ 1676  python manage.py startproject poll .
+ 1677  python manage.py startapp poll .
+ 1678  python manage.py startapp poll /poll
+ 1679  python manage.py startapp enquete /enquete
+ 1680  python manage.py startapp enquete ./enquete
+ 1681  cd ..
+ 1682  ll
+ 1683  rm -R SUPREMO
+ 1684  mkdir SUPREMO
+ 1685  cd SUPREMO
+ 1686  python3.11 -m venv venv
+ 1687  source venv/bin/activate
+ 1688  pip install django
+ 1689  django-admin startproject config .
+ 1690  python manage.py migrate
+ 1691  code .
+ 1692  cd ..
+ 1693  cd projetos/SUPREMO
+ 1694  dir
+ 1695  code .
+ 1696  source /home/fabiodesousaleal/projetos/SUPREMO/venv/bin/activate
+ 1697  django-admin startproject conf .
+ 1698  python manage.py startapp poll /poll
+ 1699  python manage.py startapp enquete /enquete
+ 1700  python manage.py startapp enquete ./enquete
+ 1701  python manage.py startapp enquete enquete
+ 1702  python manage.py startapp enquete /enquete
+ 1703  exit
+ 1704  cd projetos
+ 1705  mkdir ENQUETE
+ 1706  cd ENQUETE
+ 1707  python3.11 -m venv venv
+ 1708  source venv/bin/Activate
+ 1709  source venv/bin/activate
+ 1710  pip install django
+ 1711  django-admin startapp conf .
+ 1712  ll
+ 1713  code .
+ 1714  dir
+ 1715  exit
+ 1716  cd projetos
+ 1717  ll
+ 1718  mkdir ERP
+ 1719  cd ERP
+ 1720  python3.11 -m venv venv
+ 1721  source venv/bin/activate
+ 1722  pip install django
+ 1723  cd ..
+ 1724  docker images
+ 1725  docker pull mysql
+ 1726  docker pull postgres
+ 1727  docker images
+ 1728  docker ps
+ 1729  ll
+ 1730  docker ps
+ 1731  docker ps -a
+ 1732  docker ps
+ 1733  docker ls
+ 1734  docker images
+ 1735  pwd
+ 1736  mkdir teste
+ 1737  docker run --name -it teste -p 8000:8000 e54d10d39419 bash
+ 1738  docker run --name -it teste -p 8000:8000 e54d10d39419
+ 1739  docker pull nginx
+ 1740  cd projetos/ENQUETE
+ 1741  ll
+ 1742  code .
+ 1743  cd ..
+ 1744  rm -R ENQUETE
+ 1745  rm -R SUPREMO
+ 1746  ll
+ 1747  cd ERP
+ 1748  ll
+ 1749  source venv/bin/activate
+ 1750  pip install django
+ 1751  ll
+ 1752  django-admin startproject core .
+ 1753  ll
+ 1754  python manage.py startapp enquete enquete
+ 1755  ll
+ 1756  mkdir enquete
+ 1757  python manage.py startapp enquete enquete
+ 1758  ll
+ 1759  cd enquete
+ 1760  ll
+ 1761  cd ..
+ 1762  ll
+ 1763  python manage.py startapp enquete
+ 1764  ll
+ 1765  cd enquete
+ 1766  ll
+ 1767  mkdir
+ 1768  cd ..
+ 1769  rm enquete
+ 1770  rm -R enquete
+ 1771  ll
+ 1772  python manage.py startapp enquete
+ 1773  ll
+ 1774  python manage.py migrate
+ 1775  python manage.py createsuperuser
+ 1776  ll
+ 1777  code .
+ 1778  source /home/fabiodesousaleal/projetos/ERP/venv/bin/activate
+ 1779  python manage.py runserver
+ 1780  cd projetos/pinguimsabido
+ 1781  source venv/bin/activate
+ 1782  python manage.py runserver
+ 1783  python manage.py tailwind build
+ 1784  source venv/bin/activate
+ 1785  python manage.py tailwind build
+ 1786  git add .
+ 1787  git status
+ 1788  git commit -m 'cria a tela inicial do jogopinguim'
+ 1789  git push
+ 1790  cd projetos/pinguimsabido
+ 1791  source venv/bin/activate
+ 1792  python manage.py runserver
+ 1793  python manage.py tailwind start
+ 1794  source venv/bin/activate
+ 1795  python manage.py tailwind start
+ 1796  cd projetos/pinguimsabido
+ 1797  source venv/bin/activate
+ 1798  python manage.py runserver
+ 1799  python manage.py tailwind build
+ 1800  source venv/bin/activate
+ 1801  python manage.py tailwind build
+ 1802  python manage.py collectstatic
+ 1803  python manage.py tailwind build
+ 1804  python manage.py collectstatic
+ 1805  python manage.py tailwind build
+ 1806  python manage.py tailwind start
+ 1807  python manage.py runserver
+ 1808  cd projetos/pinguimsabido
+ 1809  source venv/bin/activate
+ 1810  python manage.py runserver
+ 1811  source venv/bin/activate
+ 1812  python manage.py tailwind start
+ 1813  cd projetos/pinguimsabido
+ 1814  source venv/bin/activate
+ 1815  python manage.py runserver
+ 1816  source venv/bin/activate
+ 1817  python manage.py tailwind start
+ 1818  python manage.py tailwind build
+ 1819  python manage.py collectstatic
+ 1820  python manage.py tailwind build
+ 1821  python manage.py collectstatic
+ 1822  python manage.py runserver
+ 1823  python manage.py tailwind build
+ 1824  python manage.py collectstatic
+ 1825  python manage.py runserver
+ 1826  cd projetos/pinguimsabido
+ 1827  source venv/bin/activate
+ 1828  python manage.py runserver
+ 1829  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1830  python manage.py runserver
+ 1831  source venv/bin/activate
+ 1832  python manage.py tailwind build
+ 1833  python manage.py collectstatic
+ 1834  python manage.py tailwind build
+ 1835  python manage.py collectstatic
+ 1836  cd projetos/pinguimsabido
+ 1837  source venv/bin/activate
+ 1838  python manage.py runserver
+ 1839  source venv/bin/activate
+ 1840  python manage.py tailwind build
+ 1841  python manage.py collectstatic
+ 1842  python manage.py runserver
+ 1843  python manage.py tailwind build
+ 1844  git status
+ 1845  git add .
+ 1846  git commit -m "adiciona primeira tela do jogo iniciado - jogo do pinguim"
+ 1847  git push
+ 1848  python manage.py tailwind build
+ 1849  python manage.py collectstatic
+ 1850  git add .
+ 1851  git commit -m "alterando cor da pagina do jogo pinguim "
+ 1852  git push
+ 1853  exit
+ 1854  cd projetos/pinguimsabido/
+ 1855  source venv/bin/activate
+ 1856  python manage.py runserver
+ 1857  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1858  python manage.py tailwind build
+ 1859  python manage.py collectstatic
+ 1860  python manage.py tailwind build
+ 1861  python manage.py collectstatic
+ 1862  python manage.py runserver
+ 1863  python manage.py tailwind build
+ 1864  python manage.py collectstatic
+ 1865  python manage.py tailwind build
+ 1866  python manage.py collectstatic
+ 1867  python manage.py tailwind build
+ 1868  python manage.py collectstatic
+ 1869  git add .
+ 1870  git status
+ 1871  git commit -m "adiciona barra de titulo do jogo do pinguim"
+ 1872  git push
+ 1873  python manage.py tailwind build
+ 1874  python manage.py collectstatic
+ 1875  git status
+ 1876  git add .
+ 1877  git commit -m "alteraçao no layout da telaa do jogo do pinguim"
+ 1878  git push
+ 1879  cd projetos/pinguimsabido
+ 1880  source venv/bin/activate
+ 1881  python manage.py runserver
+ 1882  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1883  python manage.py tailwind build
+ 1884  python manage.py collectstatic
+ 1885  python manage.py tailwind build
+ 1886  python manage.py collectstatic
+ 1887  python manage.py tailwind build
+ 1888  python manage.py collectstatic
+ 1889  git add .
+ 1890  git status
+ 1891  git commit -m "iniciando a manipulacao para exibir as informacoes no jogopinguim"
+ 1892  git checkout .
+ 1893  python manage.py runserver
+ 1894  cd projetos/pinguimsabido
+ 1895  source venv/bin/activate
+ 1896  python manage.py runserver
+ 1897  python manage.py shell
+ 1898  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1899  python manage.py shell
+ 1900  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1901  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python
+ 1902  python manage.py runserver
+ 1903  python manage.py makemigrations
+ 1904  python manage.py migrate
+ 1905  cd projetos/pinguimsabido
+ 1906  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1907  source venv/bin/activate
+ 1908  python manage.py runserver
+ 1909  cd projetos/pinguimsabido
+ 1910  source venv/bin/activate
+ 1911  python manage.py runserver
+ 1912  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1913  python manage.py makemigrations
+ 1914  migrate
+ 1915  python manage.py migrate
+ 1916  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1917  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python
+ 1918  python manage.py runserver
+ 1919  cd projetos/pinguimsabido
+ 1920  source venv/bin/activate
+ 1921  python manage.py runserver
+ 1922  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1923  python manage.py makemigrations
+ 1924  python manage.py migrate
+ 1925  cd projetos/pinguimsabido
+ 1926  source venv/bin/activate
+ 1927  python manage.py runserver
+ 1928  python manage.py shell
+ 1929  source venv/bin/activate
+ 1930  python manage.py shell
+ 1931  python manage.py runserver
+ 1932  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1933  python manage.py makemigration
+ 1934  python manage.py makemigrations
+ 1935  python manage.py shell
+ 1936  python manage.py makemigrations
+ 1937  python manage.py migrate
+ 1938  cd projetos/pinguimsabido
+ 1939  source venv/bin/activate
+ 1940  python manage.py runserver
+ 1941  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1942  python manage.py makemigrations
+ 1943  python manage.py migrate
+ 1944  python manage.py runserver
+ 1945  python manage.py collectstatic
+ 1946  python manage.py runserver
+ 1947  git add .
+ 1948  git commit -m "Tentativa de fazer cronometro com sessao no banco e token INCOMPLETO"
+ 1949  git push
+ 1950  git config
+ 1951  git remote
+ 1952  git remote origin
+ 1953  git remote list
+ 1954  git remote get-url
+ 1955  git remote get-url all
+ 1956  git remote get-url origin
+ 1957  exit
+ 1958  cd projetos/pinguimsabido
+ 1959  git status
+ 1960  git push
+ 1961  git status
+ 1962  git log
+ 1963  cd projetos/pinguimsabido
+ 1964  source venv/bin/activate
+ 1965  python manage.py runserver
+ 1966  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1967  python manage.py shell
+ 1968  cd projetos/pinguimsabido
+ 1969  git checkout .
+ 1970  git pull
+ 1971  source venv/bin/activate
+ 1972  python manage.py migrate
+ 1973  cd projetos/pinguimsabido
+ 1974  git pull
+ 1975  git checkout .
+ 1976  git pull
+ 1977  source venv/bin/activate
+ 1978  python manage.py migrate
+ 1979  python manage.py makemigrations
+ 1980  source venv/bin/activate
+ 1981  python manage.py makemigrations
+ 1982  python manage.py migrate
+ 1983  python manage.py makemigrations
+ 1984  python manage.py migrate
+ 1985  python manage.py makemigrations
+ 1986  python manage.py migrate
+ 1987  python manage.py makemigrations
+ 1988  python manage.py migrate
+ 1989  python manage.py makemigrations
+ 1990  python manage.py migrate
+ 1991  python manage.py makemigrations
+ 1992  python manage.py migrate
+ 1993  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 1994  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python
+ 1995  python manage.py makemigrations
+ 1996  python manage.py migrate
+ 1997  git status
+ 1998  git push
+ 1999  cd projetos/pinguimsabido
+ 2000  ll
+ 2001  git checkout .
+ 2002  git pull
+ 2003  python manage.py migrate
+ 2004  source venv/bin/activate
+ 2005  python manage.py migrate
+ 2006  python manage.py runserver
+ 2007  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2008  python manage.py shell
+ 2009  cd projetos/pinguimsabido
+ 2010  source venv/bin/activate
+ 2011  python manage.py runserver
+ 2012  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2013  python manage.py makemigrations
+ 2014  python manage.py migrate
+ 2015  python manage.py makemigrations
+ 2016  python manage.py migrate
+ 2017  git add .
+ 2018  git commit - m "Remove campo status de SessionJogopinguim e refatora codigo"
+ 2019  git commit -m "Remove campo status de SessionJogopinguim e refatora codigo"
+ 2020  git push
+ 2021  cd projetos/pinguimsabido
+ 2022  source venv/bin/activate
+ 2023  python manage.py runserver
+ 2024  git status
+ 2025  git add .
+ 2026  git commit -m "Implementando botao responder jogopinguim INCOMPLETO'\n
+ 2027  git commit -m "Implementando botao responder jogopinguim INCOMPLETO"\n
+ 2028  git push
+ 2029  exit
+ 2030  cd projetos/pinguimsabido
+ 2031  git status
+ 2032  git log
+ 2033  cd projetos/pinguimsabido
+ 2034  git status
+ 2035  git checkout apps/jogos/urls.py
+ 2036  git status
+ 2037  git log
+ 2038  git checkout .
+ 2039  git status
+ 2040  git pull
+ 2041  git log
+ 2042  git pull
+ 2043  git status
+ 2044  git add templates/jogos/jogopinguim/_questao.html
+ 2045  git status
+ 2046  git checkout .
+ 2047  git log --oneline
+ 2048  git clean
+ 2049  git log
+ 2050  git status
+ 2051  git checkout .
+ 2052  git checkout status
+ 2053  git status
+ 2054  git log -p
+ 2055  git log --nameonly
+ 2056  git log --name-only
+ 2057  git log
+ 2058  git log --name-only --oneline
+ 2059  source venv/bin/activate
+ 2060  python manage.py migrate
+ 2061  python manage.py runserver
+ 2062  cd projetos/pinguimsabido
+ 2063  source venv/bin/activate
+ 2064  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2065  git status
+ 2066  git add templates/jogos/jogopinguim/_questao.html
+ 2067  git status
+ 2068  git reset HEAD templates/jogos/jogopinguim/_questao.html
+ 2069  git status
+ 2070  git checkout .
+ 2071  git log --name-only
+ 2072  git log --name-only --oneline
+ 2073  git checkout .
+ 2074  cd projetos/pinguimsabido
+ 2075  git pull
+ 2076  source venv/bin/activate
+ 2077  python manage.py runserver
+ 2078  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2079  python manage.py tailwind build
+ 2080  python manage.py collectstatic
+ 2081  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2082  git status
+ 2083  git add .
+ 2084  git commit -m "Implementa botão pular"
+ 2085  git push
+ 2086  python manage.py runserver
+ 2087  git add .
+ 2088  git commit -m "Implementa pulo, melhorando"
+ 2089  git push
+ 2090  cd projetos/pinguimsabido
+ 2091  source venv/bin/activate
+ 2092  python manage.py runserver
+ 2093  git add .
+ 2094  git commit -m "implementa tempo vale ponto "
+ 2095  git push
+ 2096  cd projetos/pinguimsabido
+ 2097  git pull
+ 2098  source venv/bin/activate
+ 2099  python manage.py runserver
+ 2100  python manage.py migrate
+ 2101  python manage.py runserver
+ 2102  python manage.py tailwind build
+ 2103  python manage.py collectstatic
+ 2104  cd projetos/pinguimsabido
+ 2105  source venv/bin/activate
+ 2106  python manage.py runserver
+ 2107  cd projetos/pinguimsabido
+ 2108  source venv/bin/activate
+ 2109  python manage.py runserver
+ 2110  cd projetos/pinguimsabido
+ 2111  source venv/bin/activate
+ 2112  python manage.py runserver
+ 2113  git pull
+ 2114  python manage.py runserver
+ 2115  git add .
+ 2116  git commit -m "Altera layout de tela de inicio para mostrar top3"
+ 2117  git push
+ 2118  exit
+ 2119  cd projetos/pinguimsabido
+ 2120  git push
+ 2121  git status
+ 2122  source venv/bin/activate
+ 2123  python manage.py runserver
+ 2124  cd projetos/pinguimsabido
+ 2125  source venv/bin/activate
+ 2126  python manage.py runserver
+ 2127  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2128  python manage.py tailwind build
+ 2129  python manage.py collectstatic
+ 2130  cd projetos/pinguimsabido
+ 2131  source venv/bin/activate
+ 2132  python manage.py runserver
+ 2133  source venv/bin/activate
+ 2134  python manage.py runserver
+ 2135  python manage.py makemigrations
+ 2136  python manage.py runserver
+ 2137  python manage.py makemigrations
+ 2138  python manage.py migrate
+ 2139  python manage.py runserver
+ 2140  git log
+ 2141  python manage.py makemigrations
+ 2142  python manage.py migrate
+ 2143  python manage.py runserver
+ 2144  git add .
+ 2145  git commit -m "resetando a base de dados"
+ 2146  git push
+ 2147  exit
+ 2148  source venv/bin/activate
+ 2149  python manage.py tailwind build
+ 2150  python manage.py collectstatic
+ 2151  cd projetos/pinguimsabido
+ 2152  source venv/bin/activate
+ 2153  python manage.py runserver
+ 2154  python manage.py collectstatic
+ 2155  python manage.py runserver
+ 2156  python manage.py tailwind build
+ 2157  python manage.py collectstatic
+ 2158  python manage.py makemigrations
+ 2159  python manage.py migrate
+ 2160  git add .
+ 2161  git commit -m "alterando as relacoes fk da tabela provaconcurso" 
+ 2162  git pull
+ 2163  git push
+ 2164  python manage.py runserver
+ 2165  git add .
+ 2166  git commit -m "refatoracao1"
+ 2167  git push
+ 2168  exit
+ 2169  cd projetos/pinguimsabido
+ 2170  source venv/bin/activate
+ 2171  python manage.py runserver
+ 2172  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2173  pip freeze >requerimentos.txt
+ 2174  git push
+ 2175  git pull
+ 2176  ping 8.8.8.8
+ 2177  ping pinguimsabido.com
+ 2178  cd projetos/pinguimsabido
+ 2179  source venv/bin/activate
+ 2180  python manage.py runserver 0:0:0:0:80
+ 2181  python manage.py runserver 0:0:0:0:8000
+ 2182  python manage.py runserver 127.0.0.1:8000
+ 2183  python manage.py runserver 127.0.0.1:80
+ 2184  python manage.py runserver 127.0.0.1:8000
+ 2185  ps aux | grep python
+ 2186  exit
+ 2187  ll
+ 2188  ssh -i keyPinguim.pem ubuntu@52.3.109.143
+ 2189  pwd
+ 2190  ssh -i keyPinguim.pem ubuntu@52.3.109.143
+ 2191  source venv/bin/activate
+ 2192  python manage.py tailwind build
+ 2193  source venv/bin/activate
+ 2194  cd projetos/pinguimsabido
+ 2195  source venv/bin/activate
+ 2196  python manage.py runserver
+ 2197  python manage.py collectstatic
+ 2198  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --query 'SELECT * FROM "questoes_questao"' --output-file out.csvsource /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2199  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --query 'SELECT * FROM "questoes_questao"' --output-file out.csv
+ 2200  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'questoes_questao' --input-file out.csv
+ 2201  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'table-name' --input-file input.csv/home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'table-name' --input-file input.csv/home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --query 'SELECT * FROM "questoes_questao"' --output-file out.csv
+ 2202  cls
+ 2203  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --query 'SELECT * FROM "questoes_questao"' --output-file out.csv
+ 2204  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'questoes_questao' --input-file out.csv
+ 2205  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/dbcaçlskjaçslkdjfasdf\n|:\n|
+ 2206  history
+ 2207  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'questoes_questao' --input-file out.csv
+ 2208  sqlite3 seubanco.db
+ 2209  ll
+ 2210  sqlite3 db.sqlite3
+ 2211  ll
+ 2212  sqlite3 db.sqlite3
+ 2213  python manage.py runserver
+ 2214  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'table-name' --input-file out.csv
+ 2215  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'questoes_questao' --input-file out.csv
+ 2216  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'table-name' --input-file input.csvsource /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2217  source venv/bin/activate
+ 2218  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'questoes_questao' --input-file out.csv
+ 2219  sqlite3 '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' .dump > out.sql
+ 2220  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'questoes_questao' --input-file out.csv
+ 2221  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --query 'SELECT * FROM "questoes_questao"' --output-file out.csv
+ 2222  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --query 'SELECT * FROM "questoes_disciplina"' --output-file out.csv
+ 2223  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.108/bin/db-driver-linux-x64-gnu import --database-filepath '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' --format csv --table-name 'questoes_disciplina' --input-file out.csv
+ 2224  sqlite3 db.sqlite3
+ 2225  pip install sqlite3
+ 2226  sudo apt-get update\nsudo apt-get install sqlite3\n
+ 2227  sqlite3 db.sqlite3
+ 2228  cd projetos/pinguimsabido
+ 2229  ll
+ 2230  sqlite3 db.sqlite3
+ 2231  sudo apt update
+ 2232  sqlite3 db.sqlite3
+ 2233  git pull
+ 2234  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2235  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/chatgpt.py
+ 2236  cd projetos
+ 2237  cd pinguimsabido
+ 2238  source venv/bin/activate
+ 2239  python manage.py runserver
+ 2240  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2241  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/import.py
+ 2242  git push
+ 2243  ssh -i keyPinguim.pem ubuntu@52.3.109.143
+ 2244  python manage.py runserver
+ 2245  python manage.py tailwind build
+ 2246  python manage.py collectstatic
+ 2247  python manage.py tailwind build
+ 2248  python manage.py collectstatic
+ 2249  python manage.py tailwind build
+ 2250  python manage.py collectstatic
+ 2251  git push
+ 2252  ssh -i keyPinguim.pem ubuntu@52.3.109.143
+ 2253  cd projetos/pinguimsabido
+ 2254  source venv/bin/activate
+ 2255  python manage.py runserver
+ 2256  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2257  python manage.py tailwind build
+ 2258  python manage.py collectstatic
+ 2259  python manage.py tailwind build
+ 2260  python manage.py collectstatic
+ 2261  python manage.py tailwind build
+ 2262  python manage.py collectstatic
+ 2263  git status
+ 2264  git push
+ 2265  ssh -i keyPinguim.pem ubuntu@52.3.109.143
+ 2266  cd projetos/pinguimsabido
+ 2267  source venv/bin/activate
+ 2268  python manage.py runserver
+ 2269  python manage.py createsuperuser
+ 2270  python manage.py runserver
+ 2271  git push
+ 2272  source venv/bin/activate
+ 2273  python manage.py startapp arquivos apps
+ 2274  python manage.py startapp arquivos apps/
+ 2275  python manage.py startapp apps/ arquivos
+ 2276  python manage.py startapp apps arquivos
+ 2277  history |grep startapp
+ 2278  python manage.py startapp arquivos apps/arquivos
+ 2279  python manage.py startapp arquivos apps/
+ 2280  python manage.py startapp arquivos apps/arquivos
+ 2281  python manage.py makemigrations
+ 2282  python manage.py criate
+ 2283  python manage.py migrate
+ 2284  python manage.py makemigrations
+ 2285  python manage.py migrate
+ 2286  python manage.py runserver
+ 2287  python manage.py makemigrations
+ 2288  python manage.py migrate
+ 2289  python manage.py makemigrations
+ 2290  python manage.py migrate
+ 2291  git checkout .
+ 2292  python manage.py startapp arquivos apps/arquivos
+ 2293  python manage.py makemigrations
+ 2294  python manage.py migrate
+ 2295  python manage.py createsuperuser
+ 2296  python manage.py runserver
+ 2297  python manage.py shell
+ 2298  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2299  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/teste_delete_aws.py
+ 2300  python manage.py shell
+ 2301  cd projetos/pinguimsabido
+ 2302  source venv/bin/activate
+ 2303  python manage.py runserver
+ 2304  cd projetos/pinguimsabido
+ 2305  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2306  pip install django-ckeditor --update
+ 2307  pip install django-ckeditor --upgrade
+ 2308  source venv/bin/activate
+ 2309  python manage.py runserver
+ 2310  python manage.py makemigrations
+ 2311  python manage.py migrate
+ 2312  python manage.py runserver
+ 2313  python manage.py collectstatic
+ 2314  python manage.py runserver
+ 2315  python manage.py collectstatic
+ 2316  python manage.py runserver
+ 2317  cd projetos/pinguimsabido
+ 2318  source venv/bin/activate
+ 2319  python manage.py runserver
+ 2320  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2321  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/artefatos/captura_padrao_em_string.py
+ 2322  cd projetos/pinguimsabido
+ 2323  source venv/bin/activate
+ 2324  source python manage.py runserver
+ 2325  python manage.py runserver
+ 2326  source venv/bin/activate
+ 2327  python manage.py makemigration
+ 2328  python manage.py makemigrations
+ 2329  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2330  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/artefatos/captura_padrao_em_string.py
+ 2331  python manage.py runserver
+ 2332  python manage.py makemigrations
+ 2333  python manage.py migrate
+ 2334  python manage.py runserver
+ 2335  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/apps/questoes/utils.py
+ 2336  cd projetos/
+ 2337  mkdir masterprint
+ 2338  cd masterprint
+ 2339  python3.11 -m venv venv
+ 2340  source venv/bin
+ 2341  code .
+ 2342  pip install selenium
+ 2343  source /home/fabiodesousaleal/projetos/masterprint/venv/bin/activate
+ 2344  /home/fabiodesousaleal/projetos/masterprint/venv/bin/python /home/fabiodesousaleal/projetos/masterprint/teste.py
+ 2345  import requests\n\nurl = "https://exemplo.com"\nresponse = requests.get(url)\n\nif response.status_code == 200:\n    html_content = response.text\n    # Agora você tem o conteúdo HTML da página.\nelse:\n    print("Erro ao fazer a requisição:", response.status_code)asdf
+ 2346  /home/fabiodesousaleal/projetos/masterprint/venv/bin/python /home/fabiodesousaleal/projetos/masterprint/teste.py
+ 2347  pip install requests
+ 2348  pip install requests/home/fabiodesousaleal/projetos/masterprint/venv/bin/python /home/fabiodesousaleal/projetos/masterprint/teste.py
+ 2349  /home/fabiodesousaleal/projetos/masterprint/venv/bin/python /home/fabiodesousaleal/projetos/masterprint/teste.py
+ 2350  pip install easyprint
+ 2351  pip install WeasyPrint
+ 2352  /home/fabiodesousaleal/projetos/masterprint/venv/bin/python /home/fabiodesousaleal/projetos/masterprint/teste.py
+ 2353  pip install selenium
+ 2354  /home/fabiodesousaleal/projetos/masterprint/venv/bin/python /home/fabiodesousaleal/projetos/masterprint/exemplo2.py
+ 2355  ipconfig
+ 2356  cd ..
+ 2357  mkdir siaf
+ 2358  cd siaf
+ 2359  python3.11 -m venv venv
+ 2360  source venv/bin/activate
+ 2361  pip install install playwright
+ 2362  source /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2363  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2364  python -m playwright install\n
+ 2365  playwright install
+ 2366  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2367  from playwright.sync_api import Playwright, sync_playwright\n\nwith sync_playwright() as p:\n    browser = p.chromium.launch(headless=False)  # Opcional: Remova esta opção se desejar que o navegador seja headless\n    page = browser.new_page()\n    \n    # Defina o tamanho da janela para garantir que ela seja exibida como uma janela separada.\n    page.set_viewport_size({"width": 800, "height": 600})\n    \n    # Abra o site www.google.com em uma nova janela.\n    page.goto("https://www.google.com")\n    \n    # Aguarde um pouco para que você possa ver a janela.\n    page.wait_for_timeout(5000)  # Aguarda por 5 segundos (opcional)\n\n    # Feche a página e o navegador.\n    page.close()\n    browser.close()\n/home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2368  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2369  source /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2370  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2371  source /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2372  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2373  source /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2374  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2375  playwright._impl._api_types.Error: Unexpected token "/" while parsing selector "/html/body/div[3]/div[1]/main/div[2]/div/div[1]/div/div[1]/div/p/a"/home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2376  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2377  source /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2378  /home/fabiodesousaleal/projetos/siaf/venv/bin/python
+ 2379  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/questao_tec_db_functions
+ 2380  campos = {'questao_id': questao_id}
+ 2381  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/questao_tec_db_functions
+ 2382  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/LIXO.PY
+ 2383  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/questao_tec_db_functions
+ 2384  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/LIXO.PY
+ 2385  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/questao_tec_db_functions
+ 2386  source /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2387  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/questao_tec_db_functions
+ 2388  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2389  playwrigth  codegen www.google.com
+ 2390  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2391  playwrith codegen www.google.com
+ 2392  playwrigth codegen www.google.com
+ 2393  playwright codegen www.google.com
+ 2394  playwright codegen https://www.uol.com.br/
+ 2395  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2396  playwright codegen pinguimsabido.com.br
+ 2397  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2398  pwd
+ 2399  top
+ 2400  cd projetos
+ 2401  ll
+ 2402  source /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2403  ls
+ 2404  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2405  python manage.py runserver
+ 2406  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2407  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/artefatos/import.py
+ 2408  source venv/bin/activate
+ 2409  playwright codegen www.tecconcursos.com.br
+ 2410  playwright codegen www.tecconcursos.com.br/login
+ 2411  playwright codegen https://www.tecconcursos.com.br/questoes/cadernos/experimental/44038052
+ 2412  source /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2413  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2414  google-chrome --remote-debugging-port=9222
+ 2415  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ 2416  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2417  source /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2418  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/teste.py
+ 2419  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/macro_copy_quest_tec.py
+ 2420  /home/fabiodesousaleal/projetos/siaf/venv/bin/python
+ 2421  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/macro_copy_quest_tec.py
+ 2422  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/models.py
+ 2423  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/macro_copy_quest_tec.py
+ 2424  playwright codegen https://www.tecconcursos.com.br/questoes/cadernos/experimental/44038052
+ 2425  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/macro_copy_quest_tec.py
+ 2426  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/macro_copy_quest_tec.py/home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/macro_copy_quest_tec.py
+ 2427  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/macro_copy_quest_tec.py
+ 2428  source /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2429  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/macro_copy_quest_tec.py
+ 2430  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/utils.py
+ 2431  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/macro_copy_quest_tec.py
+ 2432  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.131/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/siaf/questaotec.db' --format csv --query 'SELECT * FROM "questao_tec"' --output-file out.csvsource /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2433  source venv/bin/activate
+ 2434  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.131/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/siaf/questaotec.db' --format csv --query 'SELECT * FROM "questao_tec"' --output-file out.csvsource /home/fabiodesousaleal/projetos/siaf/venv/bin/activate
+ 2435  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.131/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/siaf/questaotec.db' --format csv --query 'SELECT * FROM "questao_tec"' --output-file out.csv --csv-delimiter
+ 2436  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.131/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/siaf/questaotec.db' --format csv --query 'SELECT * FROM "questao_tec"' --output-file out.csv --csv-delimiter/home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.131/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/siaf/questaotec.db' --format csv --query 'SELECT * FROM "questao_tec"' --output-file out.csv
+ 2437  /home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.131/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/siaf/questaotec.db' --format csv --query 'SELECT * FROM "questao_tec"' --output-file out.csv --csv-delimiter/home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.131/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/siaf/questaotec.db' --format csv --query 'SELECT * FROM "questao_tec"' 
+ 2438  sqlite3
+ 2439  sqlite3 questaotec.db
+ 2440  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2441  /home/fabiodesousaleal/projetos/siaf/venv/bin/python
+ 2442  /home/fabiodesousaleal/projetos/siaf/venv/bin/python /home/fabiodesousaleal/projetos/siaf/utils.py
+ 2443  print(type(tipo))
+ 2444  cd ..
+ 2445  mkdir questaocopy
+ 2446  rm questaocopy
+ 2447  rm -R questaocopy
+ 2448  exit
+ 2449  cd projetos
+ 2450  ll
+ 2451  mkdir questaocopy
+ 2452  cd questaocopy
+ 2453  python3.11 -m venv venv
+ 2454  source venv/bin/activate
+ 2455  pip install playwright
+ 2456  source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2457  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/autotec_loguin.py
+ 2458  source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2459  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/imagedownload.py
+ 2460  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/migrations/1_cria_tabela_imagem.py
+ 2461  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python
+ 2462  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils.py
+ 2463  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db.py
+ 2464  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db_adicionar_colunas.py
+ 2465  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db.py
+ 2466  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/imagedownload.py
+ 2467  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db.py
+ 2468  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2469  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/migrations/1_cria_tabela_imagem.py
+ 2470  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2471  source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2472  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2473  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils.py
+ 2474  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2475  l/home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2476  source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2477  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2478  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db.py
+ 2479  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2480  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/migrations/3-cria_tabela_questao_imagem
+ 2481  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db.py
+ 2482  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2483  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db.py
+ 2484  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/migrations/3-cria_tabela_questao_imagem
+ 2485  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2486  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db.py
+ 2487  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2488  source venv/bin/activate
+ 2489  pip install aiohttp
+ 2490  source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2491  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/download_image_http.py
+ 2492  cd ..
+ 2493  cd questaocopy
+ 2494  rm *
+ 2495  source venv/bin/activate
+ 2496  pip install httpx
+ 2497  source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2498  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db.py
+ 2499  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2500  source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2501  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2502  pip install httpx
+ 2503  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2504  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/autotec_loguin.py
+ 2505  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2506  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db.py
+ 2507  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2508  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/utils_db.py
+ 2509  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2510  source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2511  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2512  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python
+ 2513  home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2514  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2515  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2516  sqlite3 '/home/fabiodesousaleal/projetos/questaocopy/questaotec.db' .dump > out.sql
+ 2517  sqlite3 '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' < input.sqlsource /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2518  source venv/bin/Activate
+ 2519  source venv/bin/activate
+ 2520  sqlite3 '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' < out.sql
+ 2521  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2522  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/extracao_para_base_pinguimsabido.py
+ 2523  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python
+ 2524  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/extracao_para_base_pinguimsabido.py
+ 2525  cursor.execute(query, (enunciado, alternativa_a, alternativa_b, alternativa_c, alternativa_d, alternativa_e, gabarito, assunto_id))
+ 2526  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/extracao_para_base_pinguimsabido.py
+ 2527  python manage.py makemigrations
+ 2528  python manage.py migrate
+ 2529  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/extracao_para_base_pinguimsabido.py
+ 2530  python manage.py runserver
+ 2531  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2532  ource /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2533  source venv/bin/activate
+ 2534  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2535  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/extracao_para_base_pinguimsabido.py
+ 2536  python manage.py runserver
+ 2537  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2538  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/artefatos/funcoes_diversas.py
+ 2539  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/extracao_para_base_pinguimsabido.py
+ 2540  source venv/bin/activate
+ 2541  python manage.py runserver
+ 2542  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2543  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/extracao_para_base_pinguimsabido.py
+ 2544  source venv/bin/activate
+ 2545  python manage.py runserver
+ 2546  source venv/bin/activate
+ 2547  python manage.py runserver
+ 2548  source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2549  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/migrations/2-cria_coluna_copysrc.py
+ 2550  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/migrations/1_cria_tabela_imagem.py
+ 2551  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/migrations/3-cria_tabela_questao_imagem.py
+ 2552  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/autotec_loguin.py
+ 2553  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/macro_automacao_copysrc.py
+ 2554  source venv/bin/activate
+ 2555  python manage.py runserver
+ 2556  sqlite3 '/home/fabiodesousaleal/projetos/questaocopy/questaotec.db' .dump > out.sql
+ 2557  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2558  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/extracao_para_base_pinguimsabido.py
+ 2559  sqlite3 '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' < input.sqlsource /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2560  sqlite3 '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' < out.sql source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2561  sqlite3 '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' < out.sqlsource /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2562  sqlite3 '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' < out.sql
+ 2563  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/extracao_para_base_pinguimsabido.py
+ 2564  python manage.py runserver
+ 2565  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2566  python manage.py runserver
+ 2567  python manage.py shell
+ 2568  python manage.py runserver
+ 2569  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2570  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/extracao_para_base_pinguimsabido.py
+ 2571  python manage.py runserver
+ 2572  apt update
+ 2573  sudo apt get update
+ 2574  sudo apt-get update
+ 2575  netstat
+ 2576  netstat -a
+ 2577  apt install netstat
+ 2578  sudo apt install netstat
+ 2579  netstat
+ 2580  netstat -a
+ 2581  apt install net-tools
+ 2582  sudo apt install net-tools
+ 2583  netstat
+ 2584  ll
+ 2585  ssh -i keyPinguim.pem ubuntu@52.3.109.143
+ 2586  asdfasdfasdfasdasdfiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.131/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/siaf/questaotec.db' --format csv --query 'SELECT * FROM "questao_tec"' --output-file out.csv --csv-delimiter/home/fabiodesousaleal/.vscode-server/extensions/yy0931.vscode-sqlite3-editor-1.0.131/bin/db-driver-linux-x64-gnu export --database-filepath '/home/fabiodesousaleal/projetos/siaf/questaotec.db' --format csv --query 'SELECT * FROM "questao_tec"' --output-file out.csv
+ 2587  scp ubuntu@52.3.109.143:/home/ubuntu/
+ 2588  cd projetos/pinguimsabido
+ 2589  scp db.sqlite3 ubuntu@52.3.109.143:/home/ubuntu/projetos/pinguimsabido db.copy
+ 2590  scp db.sqlite3 ubuntu@52.3.109.143:/home/ubuntu/projetos/pinguimsabido
+ 2591  scp db.sqlite3 /home/fabiodesousaleal/keyPinguim.pem ubuntu@52.3.109.143:/home/ubuntu/projetos/pinguimsabido
+ 2592  ssh -i keyPinguim.pem ubuntu@52.3.109.143
+ 2593  scp db.sqlite3 /home/fabiodesousaleal/keyPinguim.pem ubuntu@52.3.109.143:/home/ubuntu
+ 2594  scp db.sqlite3 /home/fabiodesousaleal/keyPinguim.pem ubuntu@52.3.109.143:/home/ubuntu/
+ 2595  scp db.sqlite3 /home/fabiodesousaleal/keyPinguim.pem ubuntu@52.3.109.143:/
+ 2596  cd ..
+ 2597  ll
+ 2598  scp -i keyPinguim.pem /home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3 ubuntu@52.3.109.143:/home/ubuntu/
+ 2599  ssh -i keyPinguim.pem ubuntu@52.3.109.143
+ 2600  source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2601  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/nova_pasta/chama_teste.py
+ 2602  /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/backup_automacao/chama_teste.py
+ 2603  python manage.py runserver
+ 2604  python manage.py tailwind build
+ 2605  python manage.py collectstatic
+ 2606  python manage.py runserver
+ 2607  source venv/bin/activate
+ 2608  python manage.py runserver
+ 2609  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2610  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/vazio.py
+ 2611  python manage.py tailwind build
+ 2612  python manage.py collectstatic
+ 2613  git add .
+ 2614  python manage.py makemigrations
+ 2615  python manage.py migrate
+ 2616  python manage.py makemigrations
+ 2617  python manage.py migrate
+ 2618  python manage.py makemigrations
+ 2619  python manage.py migrate
+ 2620  rm db.sqlite3
+ 2621  python manage.py makemigrations
+ 2622  python manage.py createsuperuser
+ 2623  python manage.py migrate
+ 2624  python manage.py createsuperuser
+ 2625  python manage.py runserver
+ 2626  git add .
+ 2627  git status
+ 2628  git commit -m "RESETANDO A BASE PINGUIMSABIDO E ALTERAÇAO NECESSARIAS"
+ 2629  git push
+ 2630  sqlite3 '/home/fabiodesousaleal/projetos/pinguimsabido/db.sqlite3' < input.sqlsource /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2631  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/1-importa_questao_tec.py
+ 2632  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/2-extracao_para_base_pinguimsabido.py
+ 2633  python manage.py runserver
+ 2634  ssh -i keyPinguim.pem ubuntu@52.3.109.143
+ 2635  ssh -i /home/fabiodesousaleal/keyPinguim.pem .env ubuntu@52.3.109.143:/home/ubuntu/projetos
+ 2636  scp -i /home/fabiodesousaleal/keyPinguim.pem .env ubuntu@52.3.109.143:/home/ubuntu/projetos
+ 2637  ssh -i /home/fabiodesousaleal/keyPinguim.pem .env ubuntu@52.3.109.143:/home/ubuntu/projetos
+ 2638  ssh -i keyPinguim.pem ubuntu@52.3.109.143
+ 2639  source /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/activate
+ 2640  /home/fabiodesousaleal/projetos/pinguimsabido/venv/bin/python /home/fabiodesousaleal/projetos/pinguimsabido/vazio.py
+ 2641  cd projetos
+ 2642  mkdir treinando-git
+ 2643  rm treinando-git
+ 2644  rm -D treinando-git
+ 2645  rm -R treinando-git
+ 2646  mkdir profissional_do_git
+ 2647  cd profissional_do_git
+ 2648  git init
+ 2649  touch README.md
+ 2650  ll
+ 2651  nano README.md
+ 2652  cd ..
+ 2653  ll
+ 2654  cd profissional_do_git
+ 2655  code .
+ 2656* git add .
+ 2657* git commit -m "meu primeiro commit"
+ 2658* git log
+ 2659* git remote
+ 2660* git remote add https://github.com/fabiodesousaleal/profissional_do_git.git 
+ 2661* git remote add origin https://github.com/fabiodesousaleal/profissional_do_git.git
+ 2662* git remote
+ 2663* git remote origin
+ 2664* git remote origin show
+ 2665* git remote show origin
+ 2666* git branch -a
+ 2667* git checkout -b develop
+ 2668* git branch -a
+ 2669* git checkout master
+ 2670* git branch -a
+ 2671* git branch -M main
+ 2672* git branch -a
+ 2673* ll
+ 2674* git mergetool code
+ 2675  ll
+ 2676  git status
+ 2677  touch teste.txt
+ 2678  git status
+ 2679  git add teste.txt
+ 2680  git status
+ 2681  git checkout
+ 2682  git status
+ 2683  git revert
+ 2684  git status
+ 2685  git clean
+ 2686  git status
+ 2687  git clean -dfx
+ 2688  ll
+ 2689  git status
+ 2690  git revert teste.txt
+ 2691  git checkout teste.txt
+ 2692  git status
+ 2693  git reset teste.txt
+ 2694  git status
+ 2695  git log --oneline
+ 2696* git status
+ 2697* git add README.md
+ 2698* git commit -m "fazendo o segundo commit - alterando README.md"
+ 2699* git log --oneline
+ 2700* git status
+ 2701* git add teste.txt
+ 2702* git status
+ 2703* git resert teste.txt
+ 2704* git reset teste.txt
+ 2705* git status
+ 2706* git remote origin
+ 2707* git remote
+ 2708* git remote origin show
+ 2709* git remote -v
+ 2710* git push
+ 2711* source /home/fabiodesousaleal/projetos/questaocopy/venv/bin/activate
+ 2712* /home/fabiodesousaleal/projetos/questaocopy/venv/bin/python /home/fabiodesousaleal/projetos/questaocopy/vazio.py
+ 2713* git push --set-upstream origin main
+ 2714* git push
+ 2715* git status
+ 2716* git checkout
+ 2717* git status
+ 2718* git log
+ 2719* git status
+ 2720* git add teste.txt
+ 2721* git commit -m "new commit"
+ 2722* git push
+ 2723* ll
+ 2724* git log --oneline
+ 2725* git add .
+ 2726* git commit -m "new commit 2"
+ 2727* git log --oneline
+ 2728* git log
+ 2729* git log --oneline
+ 2730* git branch
+ 2731* git status
+ 2732* git branch
+ 2733* git checkout develop
+ 2734* git checkout main
+ 2735* git branch
+ 2736* git log --oneline
+ 2737* git reset HEAD
+ 2738* git status
+ 2739* git reset HEAD
+ 2740* git checkout
+ 2741* git checkout .
+ 2742* git log --oneline
+ 2743* git reset --hard f61cffb
+ 2744* git status
+ 2745* git log --oneline
+ 2746* git log
+ 2747* git status
+ 2748* git log --oneline
+ 2749  git remote -v
+ 2750  git log --main
+ 2751  git log --help
+ 2752  git branch newville
+ 2753  git branch
+ 2754  git checkout -b version3
+ 2755  git branch
